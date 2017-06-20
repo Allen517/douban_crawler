@@ -13,10 +13,13 @@
 """
 __author__ = 'JHao'
 
-import os
-from Util.utilClass import ConfigParse
-from Util.utilClass import LazyProperty
+import sys
 
+sys.path.append("../")
+
+import os
+from utils.utilClass import ConfigParse
+from utils.utilClass import LazyProperty
 
 class GetConfig(object):
     """
@@ -24,38 +27,48 @@ class GetConfig(object):
     """
 
     def __init__(self):
-        print __file__
         self.pwd = os.path.split(os.path.realpath(__file__))[0]
-        print self.pwd
-        self.config_path = os.path.join(os.path.split(self.pwd)[0], 'Config.ini')
+        self.config_path = os.path.join(os.path.split(self.pwd)[0], 'config.ini')
         self.config_file = ConfigParse()
         self.config_file.read(self.config_path)
 
     @LazyProperty
-    def db_type(self):
-        return self.config_file.get('DB', 'type')
+    def proxy_putter(self):
+        return "http://{}/get_all/".format(self.config_file.get('Proxy','remote_db'))
 
     @LazyProperty
-    def db_name(self):
-        return self.config_file.get('DB', 'name')
+    def db_proxy_host(self):
+        return self.config_file.get('Proxy', 'host')
 
     @LazyProperty
-    def db_host(self):
+    def db_proxy_port(self):
+        return int(self.config_file.get('Proxy', 'port'))
+
+    @LazyProperty
+    def db_proxy_name(self):
+        return self.config_file.get('Proxy', 'name')
+
+    @LazyProperty
+    def db_douban_host(self):
         return self.config_file.get('DB', 'host')
 
     @LazyProperty
-    def db_port(self):
+    def db_douban_port(self):
         return int(self.config_file.get('DB', 'port'))
 
     @LazyProperty
-    def proxy_getter_functions(self):
-        return self.config_file.options('ProxyGetter')
+    def db_douban_name(self):
+        return self.config_file.get('DB', 'name')
+
+    @LazyProperty
+    def db_douban_tab_user(self):
+        return self.config_file.get('DB', 'user_tab')
+
+    @LazyProperty
+    def db_douban_tab_rel(self):
+        return self.config_file.get('DB', 'rel_tab')
 
 
 if __name__ == '__main__':
     gg = GetConfig()
-    print(gg.db_type)
-    print(gg.db_name)
-    print(gg.db_host)
-    print(gg.db_port)
-    print(gg.proxy_getter_functions)
+    print gg.proxy_putter
