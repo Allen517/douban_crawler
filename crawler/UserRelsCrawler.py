@@ -88,7 +88,6 @@ class UserRelsCrawler(object):
 				uid = uncrawled_rels_users[u_index][0]
 				self.log.info(u'%s 开始抓取用户%s的关注关系' % (time.ctime(), uid))
 				rels = self.__getDoubanUserRels(uid) #cost much time here
-				print rels, self.retry_num, self.max_retry
 				if rels and self.retry_num<self.max_retry:
 					self.db.putUserRels(uid, rels, 0)
 					self.db_user.updateUser(uid, 0, 1)
@@ -110,7 +109,7 @@ def userRelsCrawler(proxy):
 		pm.releaseProxy(proxy)
 		urc.log.info(u"释放当前的代理%s"%proxy)
 
-def main(process_num=1):
+def main(process_num=5):
 	pm = ProxyManager()
 	mdu = MongodbDoubanUsers()
 	global uncrawled_rels_users, uru_index, len_uru

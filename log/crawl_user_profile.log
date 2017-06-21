@@ -77,3 +77,127 @@
 2017-06-21 12:09:31,391 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
 2017-06-21 12:09:31,391 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
 2017-06-21 12:09:31,392 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999
+2017-06-21 14:13:10,879 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 14:13:10,879 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 14:13:10,882 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999
+2017-06-21 14:18:11,560 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 14:18:11,560 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:18:11 2017 开始抓取用户tadamiracle的关注关系
+2017-06-21 14:20:19,746 UserProfileCrawler.py[line:36] INFO 当前使用代理95.161.228.186:8080
+2017-06-21 14:20:19,749 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:20:19 2017 开始抓取用户tadamiracle的关注关系
+2017-06-21 14:20:45,532 UserProfileCrawler.py[line:78] INFO 已将用户tadamiracle的用户信息加入用户表
+2017-06-21 14:21:37,740 UserProfileCrawler.py[line:36] INFO 当前使用代理183.31.250.101:9999
+2017-06-21 14:21:37,744 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:21:37 2017 开始抓取用户158563799的关注关系
+2017-06-21 14:22:02,033 UserProfileCrawler.py[line:78] INFO 已将用户158563799的用户信息加入用户表
+2017-06-21 14:22:02,033 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:22:02 2017 开始抓取用户53323659的关注关系
+2017-06-21 14:22:26,282 UserProfileCrawler.py[line:78] INFO 已将用户53323659的用户信息加入用户表
+2017-06-21 14:22:26,282 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:22:26 2017 开始抓取用户158442747的关注关系
+2017-06-21 14:22:51,672 UserProfileCrawler.py[line:78] INFO 已将用户158442747的用户信息加入用户表
+2017-06-21 14:22:51,672 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:22:51 2017 开始抓取用户141017679的关注关系
+2017-06-21 14:23:16,334 UserProfileCrawler.py[line:78] INFO 已将用户141017679的用户信息加入用户表
+2017-06-21 14:23:16,335 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:23:16 2017 开始抓取用户pongba的关注关系
+2017-06-21 14:23:41,737 UserProfileCrawler.py[line:78] INFO 已将用户pongba的用户信息加入用户表
+2017-06-21 14:23:41,738 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:23:41 2017 开始抓取用户18996798的关注关系
+2017-06-21 14:38:04,575 UserProfileCrawler.py[line:36] INFO 当前使用代理211.72.239.245:3128
+2017-06-21 14:38:04,576 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:38:04 2017 开始抓取用户18996798的用户信息
+2017-06-21 14:38:30,101 UserProfileCrawler.py[line:78] INFO 已将用户18996798的用户信息加入用户表
+2017-06-21 14:38:30,102 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:38:30 2017 开始抓取用户99787253的用户信息
+2017-06-21 14:38:57,394 UserProfileCrawler.py[line:36] INFO 当前使用代理91.134.213.157:3128
+2017-06-21 14:38:57,404 UserProfileCrawler.py[line:36] INFO 当前使用代理222.95.22.51:808
+2017-06-21 14:38:57,404 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:38:57 2017 开始抓取用户99787253的用户信息
+2017-06-21 14:38:57,408 UserProfileCrawler.py[line:36] INFO 当前使用代理202.58.96.178:53281
+2017-06-21 14:38:57,412 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:38:57 2017 开始抓取用户13584772的用户信息
+2017-06-21 14:38:57,413 UserProfileCrawler.py[line:36] INFO 当前使用代理111.13.7.122:80
+2017-06-21 14:38:57,413 UserProfileCrawler.py[line:36] INFO 当前使用代理125.92.33.150:808
+2017-06-21 14:38:57,415 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:38:57 2017 开始抓取用户lazysunday的用户信息
+2017-06-21 14:38:57,418 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:38:57 2017 开始抓取用户63101961的用户信息
+2017-06-21 14:38:57,418 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:38:57 2017 开始抓取用户ggshiney的用户信息
+2017-06-21 14:39:22,241 UserProfileCrawler.py[line:78] INFO 已将用户63101961的用户信息加入用户表
+2017-06-21 14:39:22,241 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:39:22 2017 开始抓取用户junyao29的用户信息
+2017-06-21 14:39:22,278 UserProfileCrawler.py[line:78] INFO 已将用户lazysunday的用户信息加入用户表
+2017-06-21 14:39:22,278 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:39:22 2017 开始抓取用户900110324的用户信息
+2017-06-21 14:39:22,313 UserProfileCrawler.py[line:78] INFO 已将用户99787253的用户信息加入用户表
+2017-06-21 14:39:22,313 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:39:22 2017 开始抓取用户3468343的用户信息
+2017-06-21 14:39:22,329 UserProfileCrawler.py[line:78] INFO 已将用户13584772的用户信息加入用户表
+2017-06-21 14:39:22,329 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:39:22 2017 开始抓取用户yaronli的用户信息
+2017-06-21 14:39:27,100 UserProfileCrawler.py[line:78] INFO 已将用户ggshiney的用户信息加入用户表
+2017-06-21 14:39:27,101 UserProfileCrawler.py[line:74] INFO Wed Jun 21 14:39:27 2017 开始抓取用户doubanshuoshuo的用户信息
+2017-06-21 14:39:45,864 UserProfileCrawler.py[line:36] INFO 当前使用代理123.55.184.219:808
+2017-06-21 14:39:45,863 UserProfileCrawler.py[line:36] INFO 当前使用代理36.67.107.53:53281
+2017-06-21 14:39:45,867 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:39:45 2017 开始抓取用户tadamiracle的用户信息
+2017-06-21 14:39:45,873 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:39:45 2017 开始抓取用户158563799的用户信息
+2017-06-21 14:39:45,874 UserProfileCrawler.py[line:36] INFO 当前使用代理180.250.74.210:8080
+2017-06-21 14:39:45,878 UserProfileCrawler.py[line:36] INFO 当前使用代理77.68.87.225:3128
+2017-06-21 14:39:45,880 UserProfileCrawler.py[line:36] INFO 当前使用代理89.40.114.78:1189
+2017-06-21 14:39:45,881 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:39:45 2017 开始抓取用户53323659的用户信息
+2017-06-21 14:39:45,882 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:39:45 2017 开始抓取用户158442747的用户信息
+2017-06-21 14:39:45,883 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:39:45 2017 开始抓取用户141017679的用户信息
+2017-06-21 14:40:10,125 UserProfileCrawler.py[line:77] INFO 已将用户tadamiracle的用户信息加入用户表
+2017-06-21 14:40:10,125 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:40:10 2017 开始抓取用户18996798的用户信息
+2017-06-21 14:40:10,144 UserProfileCrawler.py[line:77] INFO 已将用户141017679的用户信息加入用户表
+2017-06-21 14:40:10,144 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:40:10 2017 开始抓取用户13584772的用户信息
+2017-06-21 14:40:10,152 UserProfileCrawler.py[line:77] INFO 已将用户158442747的用户信息加入用户表
+2017-06-21 14:40:10,152 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:40:10 2017 开始抓取用户junyao29的用户信息
+2017-06-21 14:40:10,156 UserProfileCrawler.py[line:77] INFO 已将用户53323659的用户信息加入用户表
+2017-06-21 14:40:10,157 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:40:10 2017 开始抓取用户900110324的用户信息
+2017-06-21 14:40:10,165 UserProfileCrawler.py[line:77] INFO 已将用户158563799的用户信息加入用户表
+2017-06-21 14:40:10,165 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:40:10 2017 开始抓取用户3468343的用户信息
+2017-06-21 14:42:18,986 UserProfileCrawler.py[line:36] INFO 当前使用代理198.23.74.170:81
+2017-06-21 14:42:18,989 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:18 2017 开始抓取用户18996798的用户信息
+2017-06-21 14:42:18,991 UserProfileCrawler.py[line:36] INFO 当前使用代理139.255.92.5:8088
+2017-06-21 14:42:18,995 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:18 2017 开始抓取用户13584772的用户信息
+2017-06-21 14:42:18,995 UserProfileCrawler.py[line:36] INFO 当前使用代理191.5.114.138:8080
+2017-06-21 14:42:18,995 UserProfileCrawler.py[line:36] INFO 当前使用代理182.52.137.249:8080
+2017-06-21 14:42:18,997 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:18 2017 开始抓取用户lazysunday的用户信息
+2017-06-21 14:42:19,001 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:18 2017 开始抓取用户63101961的用户信息
+2017-06-21 14:42:19,001 UserProfileCrawler.py[line:36] INFO 当前使用代理188.232.223.188:53281
+2017-06-21 14:42:19,004 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:18 2017 开始抓取用户junyao29的用户信息
+2017-06-21 14:42:43,295 UserProfileCrawler.py[line:77] INFO 已将用户junyao29的用户信息加入用户表
+2017-06-21 14:42:43,295 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:43 2017 开始抓取用户900110324的用户信息
+2017-06-21 14:42:43,320 UserProfileCrawler.py[line:77] INFO 已将用户63101961的用户信息加入用户表
+2017-06-21 14:42:43,320 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:43 2017 开始抓取用户3468343的用户信息
+2017-06-21 14:42:43,328 UserProfileCrawler.py[line:77] INFO 已将用户13584772的用户信息加入用户表
+2017-06-21 14:42:43,329 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:43 2017 开始抓取用户yaronli的用户信息
+2017-06-21 14:42:43,367 UserProfileCrawler.py[line:77] INFO 已将用户lazysunday的用户信息加入用户表
+2017-06-21 14:42:43,368 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:43 2017 开始抓取用户doubanshuoshuo的用户信息
+2017-06-21 14:42:44,347 UserProfileCrawler.py[line:77] INFO 已将用户18996798的用户信息加入用户表
+2017-06-21 14:42:44,348 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:42:44 2017 开始抓取用户feisun的用户信息
+2017-06-21 14:43:08,601 UserProfileCrawler.py[line:77] INFO 已将用户3468343的用户信息加入用户表
+2017-06-21 14:43:08,601 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:08 2017 开始抓取用户3310858的用户信息
+2017-06-21 14:43:08,690 UserProfileCrawler.py[line:77] INFO 已将用户feisun的用户信息加入用户表
+2017-06-21 14:43:08,691 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:08 2017 开始抓取用户2139063的用户信息
+2017-06-21 14:43:08,699 UserProfileCrawler.py[line:77] INFO 已将用户doubanshuoshuo的用户信息加入用户表
+2017-06-21 14:43:08,700 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:08 2017 开始抓取用户nilin56的用户信息
+2017-06-21 14:43:08,707 UserProfileCrawler.py[line:77] INFO 已将用户900110324的用户信息加入用户表
+2017-06-21 14:43:08,708 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:08 2017 开始抓取用户41286636的用户信息
+2017-06-21 14:43:12,739 UserProfileCrawler.py[line:77] INFO 已将用户yaronli的用户信息加入用户表
+2017-06-21 14:43:12,739 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:12 2017 开始抓取用户900068114的用户信息
+2017-06-21 14:43:32,865 UserProfileCrawler.py[line:77] INFO 已将用户3310858的用户信息加入用户表
+2017-06-21 14:43:32,866 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:32 2017 开始抓取用户Japhon的用户信息
+2017-06-21 14:43:32,975 UserProfileCrawler.py[line:77] INFO 已将用户nilin56的用户信息加入用户表
+2017-06-21 14:43:32,976 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:32 2017 开始抓取用户900024531的用户信息
+2017-06-21 14:43:32,984 UserProfileCrawler.py[line:77] INFO 已将用户41286636的用户信息加入用户表
+2017-06-21 14:43:32,985 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:32 2017 开始抓取用户xunweiyulin的用户信息
+2017-06-21 14:43:37,045 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:37 2017 开始抓取用户CloudRiver的用户信息
+2017-06-21 14:43:37,929 UserProfileCrawler.py[line:77] INFO 已将用户2139063的用户信息加入用户表
+2017-06-21 14:43:37,930 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:37 2017 开始抓取用户2052674的用户信息
+2017-06-21 14:43:57,122 UserProfileCrawler.py[line:77] INFO 已将用户Japhon的用户信息加入用户表
+2017-06-21 14:43:57,123 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:57 2017 开始抓取用户900001270的用户信息
+2017-06-21 14:43:57,241 UserProfileCrawler.py[line:77] INFO 已将用户900024531的用户信息加入用户表
+2017-06-21 14:43:57,242 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:57 2017 开始抓取用户900034865的用户信息
+2017-06-21 14:43:57,449 UserProfileCrawler.py[line:77] INFO 已将用户xunweiyulin的用户信息加入用户表
+2017-06-21 14:43:57,450 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:43:57 2017 开始抓取用户jasonnju的用户信息
+2017-06-21 14:44:01,321 UserProfileCrawler.py[line:77] INFO 已将用户CloudRiver的用户信息加入用户表
+2017-06-21 14:44:01,322 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:44:01 2017 开始抓取用户shilonggang的用户信息
+2017-06-21 14:44:02,186 UserProfileCrawler.py[line:77] INFO 已将用户2052674的用户信息加入用户表
+2017-06-21 14:44:02,187 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:44:02 2017 开始抓取用户4263471的用户信息
+2017-06-21 14:44:21,393 UserProfileCrawler.py[line:77] INFO 已将用户900001270的用户信息加入用户表
+2017-06-21 14:44:21,393 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:44:21 2017 开始抓取用户childhood1987的用户信息
+2017-06-21 14:44:21,508 UserProfileCrawler.py[line:77] INFO 已将用户900034865的用户信息加入用户表
+2017-06-21 14:44:21,509 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:44:21 2017 开始抓取用户gavin1332的用户信息
+2017-06-21 14:44:21,744 UserProfileCrawler.py[line:77] INFO 已将用户jasonnju的用户信息加入用户表
+2017-06-21 14:44:21,744 UserProfileCrawler.py[line:73] INFO Wed Jun 21 14:44:21 2017 开始抓取用户3142304的用户信息
+2017-06-21 14:44:25,609 UserProfileCrawler.py[line:77] INFO 已将用户shilonggang的用户信息加入用户表
+2017-06-21 14:44:26,499 UserProfileCrawler.py[line:77] INFO 已将用户4263471的用户信息加入用户表
+2017-06-21 14:44:45,710 UserProfileCrawler.py[line:77] INFO 已将用户childhood1987的用户信息加入用户表
+2017-06-21 14:44:45,831 UserProfileCrawler.py[line:77] INFO 已将用户gavin1332的用户信息加入用户表
+2017-06-21 14:44:46,019 UserProfileCrawler.py[line:77] INFO 已将用户3142304的用户信息加入用户表

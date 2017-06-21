@@ -48,7 +48,7 @@ class UserProfileCrawler(object):
 			if self.retry_num>=self.max_retry:
 				self.log.info(u"当前代理%s连接超时！"%self.proxy)
 				break
-			content = self.getUrlContent(url, self.proxy)
+			content = getUrlContent(url, self.proxy)
 			sleep(24)
 			self.retry_num += 1
 		if content:
@@ -67,11 +67,10 @@ class UserProfileCrawler(object):
 					u_index = uu_index
 					uu_index += 1
 				mutex.release()
-			print u_index, uu_index, len_uu
 			if u_index>=0:
 				uid = uncrawled_users[u_index][0]
 				print uid
-				self.log.info(u'%s 开始抓取用户%s的关注关系' % (time.ctime(), uid))
+				self.log.info(u'%s 开始抓取用户%s的用户信息' % (time.ctime(), uid))
 				full_infos = self.__getDoubanUser(uid)
 				if self.retry_num<self.max_retry and full_infos:
 					self.db_user.updateUser(uid, 1, 0, full_infos)
@@ -89,7 +88,7 @@ def userProfileCrawler(proxy):
 		pm.releaseProxy(proxy)
 		upc.log.info(u"释放当前的代理%s"%proxy)
 
-def main(process_num=1):
+def main(process_num=5):
 	pm = ProxyManager()
 	mdu = MongodbDoubanUsers()
 	global uncrawled_users, uu_index, len_uu

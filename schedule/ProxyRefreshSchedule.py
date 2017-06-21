@@ -5,16 +5,21 @@ import sys
 sys.path.append("../")
 
 import time
+import logging
 from threading import Thread
 
 from apscheduler.schedulers.blocking import BlockingScheduler
 from manager.ProxyManager import ProxyManager
 from utils.utilFunction import validUsefulProxy
+from utils.LogHandler import LogHandler
+
+logging.basicConfig()
 
 class ProxyRefreshSchedule(ProxyManager):
 
 	def __init__(self):
 		ProxyManager.__init__(self)
+		self.log = LogHandler('proxy_refresh')
 
 	def validProxy(self):
 		"""
@@ -24,6 +29,9 @@ class ProxyRefreshSchedule(ProxyManager):
 		for proxy in exist_proxies:
 			if not validUsefulProxy(proxy):
 				self.useProxy(proxy)
+				self.log.info(u'验证代理: %s验证不通过' % proxy)
+			else:
+				self.log.info(u'验证代理: %s验证通过' % proxy)
 
 def refreshPool():
 	prs = ProxyRefreshSchedule()
