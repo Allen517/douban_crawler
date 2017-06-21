@@ -27,13 +27,14 @@ mutex = Lock()
 class UserProfileCrawler(object):
 
 	def __init__(self, proxy):
-		self.db = MongodbDoubanRels()
 		self.db_user = MongodbDoubanUsers()
 		self.proxy = proxy
 		self.retry_num = 0 
 		self.max_retry = 2
 		self.log = LogHandler('crawl_user_profile')
 		self.log.info(u"当前使用代理%s"%proxy)
+		self.fail_count = 0
+		self.max_fail_count = 3
 
 	def __getDoubanUser(self, uid):
 		url = "https://api.douban.com/v2/user/{}".format(uid)
@@ -54,8 +55,11 @@ class UserProfileCrawler(object):
 		if content:
 			full_infos = json.loads(content)
 			if 'uid' in full_infos:
+				self.fail_count = 0
 				return full_infos
 			else:
+				self.log.info(u"当前用户%s信息抓取失败！"%uid)
+				self.fail_count += 1
 				return None
 
 	def getDoubanUserProfile(self):
@@ -69,13 +73,12 @@ class UserProfileCrawler(object):
 				mutex.release()
 			if u_index>=0:
 				uid = uncrawled_users[u_index][0]
-				print uid
 				self.log.info(u'%s 开始抓取用户%s的用户信息' % (time.ctime(), uid))
 				full_infos = self.__getDoubanUser(uid)
 				if self.retry_num<self.max_retry and full_infos:
-					self.db_user.updateUser(uid, 1, 0, full_infos)
+					self.db_user.updateUserProfileCrawlTag(uid, 1, full_infos)
 					self.log.info(u"已将用户%s的用户信息加入用户表"%uid)
-			if u_index<0 or self.retry_num>=self.max_retry:
+			if u_index<0 or self.retry_num>=self.max_retry or self.fail_count>=self.max_fail_count:
 				break
 		self.log.info(u"当前的用户关注关系抓取线程任务已完成")
 
@@ -84,7 +87,7 @@ def userProfileCrawler(proxy):
 	pm.useProxy(proxy)
 	upc = UserProfileCrawler(proxy)
 	upc.getDoubanUserProfile()
-	if upc.retry_num<upc.max_retry:
+	if upc.retry_num<upc.max_retry and upc.fail_count<upc.max_fail_count:
 		pm.releaseProxy(proxy)
 		upc.log.info(u"释放当前的代理%s"%proxy)
 
@@ -119,7 +122,7 @@ def main(process_num=5):
 def run():
 	main()
 	sched = BlockingScheduler()
-	sched.add_job(main, 'interval', minutes=5)
+	sched.add_job(main, 'interval', minutes=1)
 	sched.start()
 
 

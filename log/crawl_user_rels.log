@@ -236,3 +236,751 @@
 2017-06-21 14:49:56,029 UserRelsCrawler.py[line:94] INFO 已将用户lozen的关注用户加入关系表
 2017-06-21 14:49:56,348 UserRelsCrawler.py[line:98] INFO 已将用户lozen的关注用户加入用户表
 2017-06-21 14:49:56,349 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:49:56 2017 开始抓取用户moguan618的关注关系
+2017-06-21 14:50:44,942 UserRelsCrawler.py[line:75] INFO 已完成用户44418324的关注关系抓取
+2017-06-21 14:50:44,948 UserRelsCrawler.py[line:94] INFO 已将用户44418324的关注用户加入关系表
+2017-06-21 14:50:45,223 UserRelsCrawler.py[line:98] INFO 已将用户44418324的关注用户加入用户表
+2017-06-21 14:50:45,223 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:50:45 2017 开始抓取用户102186128的关注关系
+2017-06-21 14:51:10,466 UserRelsCrawler.py[line:75] INFO 已完成用户102186128的关注关系抓取
+2017-06-21 14:51:10,473 UserRelsCrawler.py[line:94] INFO 已将用户102186128的关注用户加入关系表
+2017-06-21 14:51:10,609 UserRelsCrawler.py[line:98] INFO 已将用户102186128的关注用户加入用户表
+2017-06-21 14:51:10,609 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:51:10 2017 开始抓取用户zeajin的关注关系
+2017-06-21 14:51:12,052 UserRelsCrawler.py[line:75] INFO 已完成用户moguan618的关注关系抓取
+2017-06-21 14:51:12,060 UserRelsCrawler.py[line:94] INFO 已将用户moguan618的关注用户加入关系表
+2017-06-21 14:51:12,737 UserRelsCrawler.py[line:98] INFO 已将用户moguan618的关注用户加入用户表
+2017-06-21 14:51:12,737 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:51:12 2017 开始抓取用户137766154的关注关系
+2017-06-21 14:51:37,382 UserRelsCrawler.py[line:75] INFO 已完成用户137766154的关注关系抓取
+2017-06-21 14:51:37,389 UserRelsCrawler.py[line:94] INFO 已将用户137766154的关注用户加入关系表
+2017-06-21 14:51:37,442 UserRelsCrawler.py[line:98] INFO 已将用户137766154的关注用户加入用户表
+2017-06-21 14:51:37,443 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:51:37 2017 开始抓取用户155253534的关注关系
+2017-06-21 14:52:01,756 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:52:01 2017 开始抓取用户50478799的关注关系
+2017-06-21 14:53:29,312 UserRelsCrawler.py[line:75] INFO 已完成用户narcissus_iris的关注关系抓取
+2017-06-21 14:53:29,320 UserRelsCrawler.py[line:94] INFO 已将用户narcissus_iris的关注用户加入关系表
+2017-06-21 14:53:31,407 UserRelsCrawler.py[line:98] INFO 已将用户narcissus_iris的关注用户加入用户表
+2017-06-21 14:53:31,407 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:53:31 2017 开始抓取用户151272912的关注关系
+2017-06-21 14:53:42,022 UserRelsCrawler.py[line:75] INFO 已完成用户zeajin的关注关系抓取
+2017-06-21 14:53:42,030 UserRelsCrawler.py[line:94] INFO 已将用户zeajin的关注用户加入关系表
+2017-06-21 14:53:42,998 UserRelsCrawler.py[line:98] INFO 已将用户zeajin的关注用户加入用户表
+2017-06-21 14:53:42,998 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:53:42 2017 开始抓取用户achen89的关注关系
+2017-06-21 14:53:44,692 UserRelsCrawler.py[line:75] INFO 已完成用户pongba的关注关系抓取
+2017-06-21 14:53:44,702 UserRelsCrawler.py[line:94] INFO 已将用户pongba的关注用户加入关系表
+2017-06-21 14:53:50,623 UserRelsCrawler.py[line:98] INFO 已将用户pongba的关注用户加入用户表
+2017-06-21 14:53:50,624 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:53:50 2017 开始抓取用户120304567的关注关系
+2017-06-21 14:53:55,983 UserRelsCrawler.py[line:75] INFO 已完成用户151272912的关注关系抓取
+2017-06-21 14:53:55,989 UserRelsCrawler.py[line:94] INFO 已将用户151272912的关注用户加入关系表
+2017-06-21 14:53:56,018 UserRelsCrawler.py[line:98] INFO 已将用户151272912的关注用户加入用户表
+2017-06-21 14:53:56,018 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:53:56 2017 开始抓取用户luoruisheng的关注关系
+2017-06-21 14:54:08,731 UserRelsCrawler.py[line:75] INFO 已完成用户achen89的关注关系抓取
+2017-06-21 14:54:08,737 UserRelsCrawler.py[line:94] INFO 已将用户achen89的关注用户加入关系表
+2017-06-21 14:54:08,893 UserRelsCrawler.py[line:98] INFO 已将用户achen89的关注用户加入用户表
+2017-06-21 14:54:08,893 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:54:08 2017 开始抓取用户yuye2016的关注关系
+2017-06-21 14:54:16,145 UserRelsCrawler.py[line:75] INFO 已完成用户120304567的关注关系抓取
+2017-06-21 14:54:16,152 UserRelsCrawler.py[line:94] INFO 已将用户120304567的关注用户加入关系表
+2017-06-21 14:54:16,168 UserRelsCrawler.py[line:98] INFO 已将用户120304567的关注用户加入用户表
+2017-06-21 14:54:16,168 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:54:16 2017 开始抓取用户124569730的关注关系
+2017-06-21 14:54:33,393 UserRelsCrawler.py[line:75] INFO 已完成用户yuye2016的关注关系抓取
+2017-06-21 14:54:33,399 UserRelsCrawler.py[line:94] INFO 已将用户yuye2016的关注用户加入关系表
+2017-06-21 14:54:33,409 UserRelsCrawler.py[line:98] INFO 已将用户yuye2016的关注用户加入用户表
+2017-06-21 14:54:33,409 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:54:33 2017 开始抓取用户80467516的关注关系
+2017-06-21 14:54:58,382 UserRelsCrawler.py[line:75] INFO 已完成用户80467516的关注关系抓取
+2017-06-21 14:54:58,389 UserRelsCrawler.py[line:94] INFO 已将用户80467516的关注用户加入关系表
+2017-06-21 14:54:58,417 UserRelsCrawler.py[line:98] INFO 已将用户80467516的关注用户加入用户表
+2017-06-21 14:54:58,417 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:54:58 2017 开始抓取用户84634081的关注关系
+2017-06-21 14:55:23,072 UserRelsCrawler.py[line:75] INFO 已完成用户84634081的关注关系抓取
+2017-06-21 14:55:23,079 UserRelsCrawler.py[line:94] INFO 已将用户84634081的关注用户加入关系表
+2017-06-21 14:55:23,161 UserRelsCrawler.py[line:98] INFO 已将用户84634081的关注用户加入用户表
+2017-06-21 14:55:23,161 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:55:23 2017 开始抓取用户144626326的关注关系
+2017-06-21 14:56:17,874 UserRelsCrawler.py[line:75] INFO 已完成用户Yuanerartstudio的关注关系抓取
+2017-06-21 14:56:17,883 UserRelsCrawler.py[line:94] INFO 已将用户Yuanerartstudio的关注用户加入关系表
+2017-06-21 14:56:22,764 UserRelsCrawler.py[line:98] INFO 已将用户Yuanerartstudio的关注用户加入用户表
+2017-06-21 14:56:22,765 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:56:22 2017 开始抓取用户140553819的关注关系
+2017-06-21 14:56:38,321 UserRelsCrawler.py[line:75] INFO 已完成用户144626326的关注关系抓取
+2017-06-21 14:56:38,326 UserRelsCrawler.py[line:94] INFO 已将用户144626326的关注用户加入关系表
+2017-06-21 14:56:38,844 UserRelsCrawler.py[line:98] INFO 已将用户144626326的关注用户加入用户表
+2017-06-21 14:56:38,845 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:56:38 2017 开始抓取用户149113392的关注关系
+2017-06-21 14:56:47,631 UserRelsCrawler.py[line:75] INFO 已完成用户140553819的关注关系抓取
+2017-06-21 14:56:47,633 UserRelsCrawler.py[line:94] INFO 已将用户140553819的关注用户加入关系表
+2017-06-21 14:56:47,740 UserRelsCrawler.py[line:98] INFO 已将用户140553819的关注用户加入用户表
+2017-06-21 14:56:47,740 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:56:47 2017 开始抓取用户154066421的关注关系
+2017-06-21 14:56:51,741 UserRelsCrawler.py[line:75] INFO 已完成用户luoruisheng的关注关系抓取
+2017-06-21 14:56:51,748 UserRelsCrawler.py[line:94] INFO 已将用户luoruisheng的关注用户加入关系表
+2017-06-21 14:56:53,472 UserRelsCrawler.py[line:98] INFO 已将用户luoruisheng的关注用户加入用户表
+2017-06-21 14:56:53,473 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:56:53 2017 开始抓取用户145895915的关注关系
+2017-06-21 14:57:03,511 UserRelsCrawler.py[line:75] INFO 已完成用户149113392的关注关系抓取
+2017-06-21 14:57:03,518 UserRelsCrawler.py[line:94] INFO 已将用户149113392的关注用户加入关系表
+2017-06-21 14:57:03,568 UserRelsCrawler.py[line:98] INFO 已将用户149113392的关注用户加入用户表
+2017-06-21 14:57:03,569 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:57:03 2017 开始抓取用户63311974的关注关系
+2017-06-21 14:57:17,981 UserRelsCrawler.py[line:75] INFO 已完成用户145895915的关注关系抓取
+2017-06-21 14:57:17,984 UserRelsCrawler.py[line:94] INFO 已将用户145895915的关注用户加入关系表
+2017-06-21 14:57:17,992 UserRelsCrawler.py[line:98] INFO 已将用户145895915的关注用户加入用户表
+2017-06-21 14:57:17,992 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:57:17 2017 开始抓取用户121417924的关注关系
+2017-06-21 14:57:28,647 UserRelsCrawler.py[line:75] INFO 已完成用户63311974的关注关系抓取
+2017-06-21 14:57:28,653 UserRelsCrawler.py[line:94] INFO 已将用户63311974的关注用户加入关系表
+2017-06-21 14:57:28,894 UserRelsCrawler.py[line:98] INFO 已将用户63311974的关注用户加入用户表
+2017-06-21 14:57:28,894 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:57:28 2017 开始抓取用户44284467的关注关系
+2017-06-21 14:57:32,150 UserRelsCrawler.py[line:75] INFO 已完成用户50478799的关注关系抓取
+2017-06-21 14:57:32,155 UserRelsCrawler.py[line:94] INFO 已将用户50478799的关注用户加入关系表
+2017-06-21 14:57:35,944 UserRelsCrawler.py[line:98] INFO 已将用户50478799的关注用户加入用户表
+2017-06-21 14:57:35,945 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:57:35 2017 开始抓取用户121778676的关注关系
+2017-06-21 14:57:42,721 UserRelsCrawler.py[line:75] INFO 已完成用户121417924的关注关系抓取
+2017-06-21 14:57:42,728 UserRelsCrawler.py[line:94] INFO 已将用户121417924的关注用户加入关系表
+2017-06-21 14:57:42,805 UserRelsCrawler.py[line:98] INFO 已将用户121417924的关注用户加入用户表
+2017-06-21 14:57:42,805 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:57:42 2017 开始抓取用户139327901的关注关系
+2017-06-21 14:58:00,471 UserRelsCrawler.py[line:75] INFO 已完成用户121778676的关注关系抓取
+2017-06-21 14:58:00,478 UserRelsCrawler.py[line:94] INFO 已将用户121778676的关注用户加入关系表
+2017-06-21 14:58:00,494 UserRelsCrawler.py[line:98] INFO 已将用户121778676的关注用户加入用户表
+2017-06-21 14:58:00,494 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:58:00 2017 开始抓取用户songjunvip的关注关系
+2017-06-21 14:58:01,994 UserRelsCrawler.py[line:75] INFO 已完成用户154066421的关注关系抓取
+2017-06-21 14:58:02,000 UserRelsCrawler.py[line:94] INFO 已将用户154066421的关注用户加入关系表
+2017-06-21 14:58:02,631 UserRelsCrawler.py[line:98] INFO 已将用户154066421的关注用户加入用户表
+2017-06-21 14:58:02,631 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:58:02 2017 开始抓取用户147893461的关注关系
+2017-06-21 14:58:07,471 UserRelsCrawler.py[line:75] INFO 已完成用户139327901的关注关系抓取
+2017-06-21 14:58:07,478 UserRelsCrawler.py[line:94] INFO 已将用户139327901的关注用户加入关系表
+2017-06-21 14:58:07,549 UserRelsCrawler.py[line:98] INFO 已将用户139327901的关注用户加入用户表
+2017-06-21 14:58:07,549 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:58:07 2017 开始抓取用户142776909的关注关系
+2017-06-21 14:58:27,211 UserRelsCrawler.py[line:75] INFO 已完成用户147893461的关注关系抓取
+2017-06-21 14:58:27,217 UserRelsCrawler.py[line:94] INFO 已将用户147893461的关注用户加入关系表
+2017-06-21 14:58:27,258 UserRelsCrawler.py[line:98] INFO 已将用户147893461的关注用户加入用户表
+2017-06-21 14:58:27,258 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:58:27 2017 开始抓取用户136505664的关注关系
+2017-06-21 14:59:35,072 UserRelsCrawler.py[line:75] INFO 已完成用户44284467的关注关系抓取
+2017-06-21 14:59:35,077 UserRelsCrawler.py[line:94] INFO 已将用户44284467的关注用户加入关系表
+2017-06-21 14:59:36,219 UserRelsCrawler.py[line:98] INFO 已将用户44284467的关注用户加入用户表
+2017-06-21 14:59:36,219 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:59:36 2017 开始抓取用户57514530的关注关系
+2017-06-21 14:59:40,441 UserRelsCrawler.py[line:75] INFO 已完成用户songjunvip的关注关系抓取
+2017-06-21 14:59:40,447 UserRelsCrawler.py[line:94] INFO 已将用户songjunvip的关注用户加入关系表
+2017-06-21 14:59:41,136 UserRelsCrawler.py[line:98] INFO 已将用户songjunvip的关注用户加入用户表
+2017-06-21 14:59:41,137 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:59:41 2017 开始抓取用户gogotroy的关注关系
+2017-06-21 14:59:42,165 UserRelsCrawler.py[line:75] INFO 已完成用户136505664的关注关系抓取
+2017-06-21 14:59:42,172 UserRelsCrawler.py[line:94] INFO 已将用户136505664的关注用户加入关系表
+2017-06-21 14:59:42,871 UserRelsCrawler.py[line:75] INFO 已完成用户124569730的关注关系抓取
+2017-06-21 14:59:42,878 UserRelsCrawler.py[line:94] INFO 已将用户124569730的关注用户加入关系表
+2017-06-21 14:59:42,926 UserRelsCrawler.py[line:98] INFO 已将用户136505664的关注用户加入用户表
+2017-06-21 14:59:42,926 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:59:42 2017 开始抓取用户103283028的关注关系
+2017-06-21 14:59:46,009 UserRelsCrawler.py[line:98] INFO 已将用户124569730的关注用户加入用户表
+2017-06-21 14:59:46,009 UserRelsCrawler.py[line:89] INFO Wed Jun 21 14:59:46 2017 开始抓取用户126617036的关注关系
+2017-06-21 15:00:07,491 UserRelsCrawler.py[line:75] INFO 已完成用户103283028的关注关系抓取
+2017-06-21 15:00:07,497 UserRelsCrawler.py[line:94] INFO 已将用户103283028的关注用户加入关系表
+2017-06-21 15:00:07,515 UserRelsCrawler.py[line:98] INFO 已将用户103283028的关注用户加入用户表
+2017-06-21 15:00:07,516 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:00:07 2017 开始抓取用户148013482的关注关系
+2017-06-21 15:00:11,081 UserRelsCrawler.py[line:75] INFO 已完成用户126617036的关注关系抓取
+2017-06-21 15:00:11,088 UserRelsCrawler.py[line:94] INFO 已将用户126617036的关注用户加入关系表
+2017-06-21 15:00:11,251 UserRelsCrawler.py[line:98] INFO 已将用户126617036的关注用户加入用户表
+2017-06-21 15:00:11,252 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:00:11 2017 开始抓取用户kanlixiang的关注关系
+2017-06-21 15:35:44,498 UserRelsCrawler.py[line:40] INFO 当前使用代理190.121.158.114:8080
+2017-06-21 15:35:44,497 UserRelsCrawler.py[line:40] INFO 当前使用代理185.35.67.126:1189
+2017-06-21 15:35:44,501 UserRelsCrawler.py[line:40] INFO 当前使用代理85.113.48.148:8080
+2017-06-21 15:35:44,502 UserRelsCrawler.py[line:40] INFO 当前使用代理182.88.162.63:8123
+2017-06-21 15:35:44,502 UserRelsCrawler.py[line:40] INFO 当前使用代理218.161.47.231:3128
+2017-06-21 15:35:44,531 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:35:44 2017 开始抓取用户tadamiracle的关注关系
+2017-06-21 15:35:44,553 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:35:44 2017 开始抓取用户158563799的关注关系
+2017-06-21 15:35:44,553 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:35:44 2017 开始抓取用户53323659的关注关系
+2017-06-21 15:35:44,559 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:35:44 2017 开始抓取用户158442747的关注关系
+2017-06-21 15:35:44,560 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:35:44 2017 开始抓取用户141017679的关注关系
+2017-06-21 15:36:09,278 UserRelsCrawler.py[line:75] INFO 已完成用户158442747的关注关系抓取
+2017-06-21 15:36:09,285 UserRelsCrawler.py[line:94] INFO 已将用户158442747的关注用户加入关系表
+2017-06-21 15:36:09,290 UserRelsCrawler.py[line:98] INFO 已将用户158442747的关注用户加入用户表
+2017-06-21 15:36:09,291 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:09 2017 开始抓取用户pongba的关注关系
+2017-06-21 15:36:09,317 UserRelsCrawler.py[line:75] INFO 已完成用户141017679的关注关系抓取
+2017-06-21 15:36:09,324 UserRelsCrawler.py[line:94] INFO 已将用户141017679的关注用户加入关系表
+2017-06-21 15:36:09,326 UserRelsCrawler.py[line:98] INFO 已将用户141017679的关注用户加入用户表
+2017-06-21 15:36:09,327 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:09 2017 开始抓取用户18996798的关注关系
+2017-06-21 15:36:09,377 UserRelsCrawler.py[line:75] INFO 已完成用户53323659的关注关系抓取
+2017-06-21 15:36:09,382 UserRelsCrawler.py[line:94] INFO 已将用户53323659的关注用户加入关系表
+2017-06-21 15:36:09,411 UserRelsCrawler.py[line:98] INFO 已将用户53323659的关注用户加入用户表
+2017-06-21 15:36:09,412 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:09 2017 开始抓取用户99787253的关注关系
+2017-06-21 15:36:09,720 UserRelsCrawler.py[line:75] INFO 已完成用户tadamiracle的关注关系抓取
+2017-06-21 15:36:09,724 UserRelsCrawler.py[line:94] INFO 已将用户tadamiracle的关注用户加入关系表
+2017-06-21 15:36:09,796 UserRelsCrawler.py[line:98] INFO 已将用户tadamiracle的关注用户加入用户表
+2017-06-21 15:36:09,796 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:09 2017 开始抓取用户13584772的关注关系
+2017-06-21 15:36:09,817 UserRelsCrawler.py[line:75] INFO 已完成用户158563799的关注关系抓取
+2017-06-21 15:36:09,823 UserRelsCrawler.py[line:94] INFO 已将用户158563799的关注用户加入关系表
+2017-06-21 15:36:09,854 UserRelsCrawler.py[line:98] INFO 已将用户158563799的关注用户加入用户表
+2017-06-21 15:36:09,855 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:09 2017 开始抓取用户lazysunday的关注关系
+2017-06-21 15:36:33,729 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:33 2017 开始抓取用户ggshiney的关注关系
+2017-06-21 15:36:34,167 UserRelsCrawler.py[line:75] INFO 已完成用户18996798的关注关系抓取
+2017-06-21 15:36:34,172 UserRelsCrawler.py[line:94] INFO 已将用户18996798的关注用户加入关系表
+2017-06-21 15:36:34,185 UserRelsCrawler.py[line:98] INFO 已将用户18996798的关注用户加入用户表
+2017-06-21 15:36:34,186 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:34 2017 开始抓取用户63101961的关注关系
+2017-06-21 15:36:34,617 UserRelsCrawler.py[line:75] INFO 已完成用户13584772的关注关系抓取
+2017-06-21 15:36:34,622 UserRelsCrawler.py[line:94] INFO 已将用户13584772的关注用户加入关系表
+2017-06-21 15:36:34,675 UserRelsCrawler.py[line:98] INFO 已将用户13584772的关注用户加入用户表
+2017-06-21 15:36:34,676 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:34 2017 开始抓取用户junyao29的关注关系
+2017-06-21 15:36:58,889 UserRelsCrawler.py[line:75] INFO 已完成用户63101961的关注关系抓取
+2017-06-21 15:36:58,894 UserRelsCrawler.py[line:94] INFO 已将用户63101961的关注用户加入关系表
+2017-06-21 15:36:58,907 UserRelsCrawler.py[line:98] INFO 已将用户63101961的关注用户加入用户表
+2017-06-21 15:36:58,908 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:58 2017 开始抓取用户yexuliang的关注关系
+2017-06-21 15:36:59,287 UserRelsCrawler.py[line:75] INFO 已完成用户junyao29的关注关系抓取
+2017-06-21 15:36:59,290 UserRelsCrawler.py[line:75] INFO 已完成用户lazysunday的关注关系抓取
+2017-06-21 15:36:59,295 UserRelsCrawler.py[line:94] INFO 已将用户junyao29的关注用户加入关系表
+2017-06-21 15:36:59,300 UserRelsCrawler.py[line:94] INFO 已将用户lazysunday的关注用户加入关系表
+2017-06-21 15:36:59,316 UserRelsCrawler.py[line:98] INFO 已将用户junyao29的关注用户加入用户表
+2017-06-21 15:36:59,317 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:59 2017 开始抓取用户3468343的关注关系
+2017-06-21 15:36:59,403 UserRelsCrawler.py[line:98] INFO 已将用户lazysunday的关注用户加入用户表
+2017-06-21 15:36:59,403 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:36:59 2017 开始抓取用户yaronli的关注关系
+2017-06-21 15:37:23,247 UserRelsCrawler.py[line:75] INFO 已完成用户ggshiney的关注关系抓取
+2017-06-21 15:37:23,252 UserRelsCrawler.py[line:94] INFO 已将用户ggshiney的关注用户加入关系表
+2017-06-21 15:37:23,335 UserRelsCrawler.py[line:98] INFO 已将用户ggshiney的关注用户加入用户表
+2017-06-21 15:37:23,336 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:37:23 2017 开始抓取用户doubanshuoshuo的关注关系
+2017-06-21 15:37:24,157 UserRelsCrawler.py[line:75] INFO 已完成用户yaronli的关注关系抓取
+2017-06-21 15:37:24,162 UserRelsCrawler.py[line:94] INFO 已将用户yaronli的关注用户加入关系表
+2017-06-21 15:37:24,187 UserRelsCrawler.py[line:98] INFO 已将用户yaronli的关注用户加入用户表
+2017-06-21 15:37:24,187 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:37:24 2017 开始抓取用户3310858的关注关系
+2017-06-21 15:37:25,531 UserRelsCrawler.py[line:75] INFO 已完成用户3468343的关注关系抓取
+2017-06-21 15:37:25,533 UserRelsCrawler.py[line:94] INFO 已将用户3468343的关注用户加入关系表
+2017-06-21 15:37:25,583 UserRelsCrawler.py[line:98] INFO 已将用户3468343的关注用户加入用户表
+2017-06-21 15:37:25,583 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:37:25 2017 开始抓取用户900068114的关注关系
+2017-06-21 15:37:49,904 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:37:49 2017 开始抓取用户doubanfilm的关注关系
+2017-06-21 15:37:53,850 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:37:53 2017 开始抓取用户106415的关注关系
+2017-06-21 15:38:14,508 UserRelsCrawler.py[line:75] INFO 已完成用户doubanfilm的关注关系抓取
+2017-06-21 15:38:14,511 UserRelsCrawler.py[line:94] INFO 已将用户doubanfilm的关注用户加入关系表
+2017-06-21 15:38:14,521 UserRelsCrawler.py[line:98] INFO 已将用户doubanfilm的关注用户加入用户表
+2017-06-21 15:38:14,521 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:38:14 2017 开始抓取用户songshuhui的关注关系
+2017-06-21 15:38:14,809 UserRelsCrawler.py[line:75] INFO 已完成用户yexuliang的关注关系抓取
+2017-06-21 15:38:14,813 UserRelsCrawler.py[line:94] INFO 已将用户yexuliang的关注用户加入关系表
+2017-06-21 15:38:15,697 UserRelsCrawler.py[line:98] INFO 已将用户yexuliang的关注用户加入用户表
+2017-06-21 15:38:15,698 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:38:15 2017 开始抓取用户1184300的关注关系
+2017-06-21 15:38:18,140 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:38:18 2017 开始抓取用户48495423的关注关系
+2017-06-21 15:38:39,337 UserRelsCrawler.py[line:75] INFO 已完成用户songshuhui的关注关系抓取
+2017-06-21 15:38:40,338 UserRelsCrawler.py[line:75] INFO 已完成用户1184300的关注关系抓取
+2017-06-21 15:38:42,751 UserRelsCrawler.py[line:75] INFO 已完成用户48495423的关注关系抓取
+2017-06-21 15:38:52,256 UserRelsCrawler.py[line:94] INFO 已将用户songshuhui的关注用户加入关系表
+2017-06-21 15:38:52,256 UserRelsCrawler.py[line:94] INFO 已将用户1184300的关注用户加入关系表
+2017-06-21 15:38:52,260 UserRelsCrawler.py[line:94] INFO 已将用户48495423的关注用户加入关系表
+2017-06-21 15:38:52,286 UserRelsCrawler.py[line:98] INFO 已将用户48495423的关注用户加入用户表
+2017-06-21 15:38:52,286 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:38:52 2017 开始抓取用户3513951的关注关系
+2017-06-21 15:38:52,290 UserRelsCrawler.py[line:98] INFO 已将用户1184300的关注用户加入用户表
+2017-06-21 15:38:52,290 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:38:52 2017 开始抓取用户lozen的关注关系
+2017-06-21 15:38:52,327 UserRelsCrawler.py[line:98] INFO 已将用户songshuhui的关注用户加入用户表
+2017-06-21 15:38:52,327 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:38:52 2017 开始抓取用户mafeiandband的关注关系
+2017-06-21 15:39:16,647 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:39:16 2017 开始抓取用户lordmor的关注关系
+2017-06-21 15:39:17,026 UserRelsCrawler.py[line:75] INFO 已完成用户3513951的关注关系抓取
+2017-06-21 15:39:17,029 UserRelsCrawler.py[line:94] INFO 已将用户3513951的关注用户加入关系表
+2017-06-21 15:39:17,070 UserRelsCrawler.py[line:98] INFO 已将用户3513951的关注用户加入用户表
+2017-06-21 15:39:17,071 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:39:17 2017 开始抓取用户jianghujiubar的关注关系
+2017-06-21 15:39:41,356 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:39:41 2017 开始抓取用户casarte的关注关系
+2017-06-21 15:40:06,008 UserRelsCrawler.py[line:75] INFO 已完成用户casarte的关注关系抓取
+2017-06-21 15:40:06,013 UserRelsCrawler.py[line:94] INFO 已将用户casarte的关注用户加入关系表
+2017-06-21 15:40:06,048 UserRelsCrawler.py[line:98] INFO 已将用户casarte的关注用户加入用户表
+2017-06-21 15:40:06,048 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:40:06 2017 开始抓取用户narcissus_iris的关注关系
+2017-06-21 15:40:06,557 UserRelsCrawler.py[line:75] INFO 已完成用户lozen的关注关系抓取
+2017-06-21 15:40:06,563 UserRelsCrawler.py[line:94] INFO 已将用户lozen的关注用户加入关系表
+2017-06-21 15:40:06,896 UserRelsCrawler.py[line:98] INFO 已将用户lozen的关注用户加入用户表
+2017-06-21 15:40:06,897 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:40:06 2017 开始抓取用户onekg的关注关系
+2017-06-21 15:40:58,546 UserRelsCrawler.py[line:75] INFO 已完成用户lordmor的关注关系抓取
+2017-06-21 15:40:58,550 UserRelsCrawler.py[line:94] INFO 已将用户lordmor的关注用户加入关系表
+2017-06-21 15:40:59,922 UserRelsCrawler.py[line:98] INFO 已将用户lordmor的关注用户加入用户表
+2017-06-21 15:40:59,923 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:40:59 2017 开始抓取用户44418324的关注关系
+2017-06-21 15:41:22,226 UserRelsCrawler.py[line:75] INFO 已完成用户onekg的关注关系抓取
+2017-06-21 15:41:22,234 UserRelsCrawler.py[line:94] INFO 已将用户onekg的关注用户加入关系表
+2017-06-21 15:41:22,863 UserRelsCrawler.py[line:98] INFO 已将用户onekg的关注用户加入用户表
+2017-06-21 15:41:22,863 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:41:22 2017 开始抓取用户moguan618的关注关系
+2017-06-21 15:41:55,437 UserRelsCrawler.py[line:75] INFO 已完成用户44418324的关注关系抓取
+2017-06-21 15:41:55,442 UserRelsCrawler.py[line:94] INFO 已将用户44418324的关注用户加入关系表
+2017-06-21 15:41:55,606 UserRelsCrawler.py[line:98] INFO 已将用户44418324的关注用户加入用户表
+2017-06-21 15:41:55,606 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:41:55 2017 开始抓取用户102186128的关注关系
+2017-06-21 15:42:20,587 UserRelsCrawler.py[line:75] INFO 已完成用户102186128的关注关系抓取
+2017-06-21 15:42:20,589 UserRelsCrawler.py[line:94] INFO 已将用户102186128的关注用户加入关系表
+2017-06-21 15:42:20,679 UserRelsCrawler.py[line:98] INFO 已将用户102186128的关注用户加入用户表
+2017-06-21 15:42:20,680 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:42:20 2017 开始抓取用户zeajin的关注关系
+2017-06-21 15:42:23,824 UserRelsCrawler.py[line:75] INFO 已完成用户doubanshuoshuo的关注关系抓取
+2017-06-21 15:42:23,830 UserRelsCrawler.py[line:94] INFO 已将用户doubanshuoshuo的关注用户加入关系表
+2017-06-21 15:42:25,218 UserRelsCrawler.py[line:98] INFO 已将用户doubanshuoshuo的关注用户加入用户表
+2017-06-21 15:42:25,219 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:42:25 2017 开始抓取用户137766154的关注关系
+2017-06-21 15:42:37,526 UserRelsCrawler.py[line:75] INFO 已完成用户moguan618的关注关系抓取
+2017-06-21 15:42:37,529 UserRelsCrawler.py[line:94] INFO 已将用户moguan618的关注用户加入关系表
+2017-06-21 15:42:38,091 UserRelsCrawler.py[line:98] INFO 已将用户moguan618的关注用户加入用户表
+2017-06-21 15:42:38,092 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:42:38 2017 开始抓取用户155253534的关注关系
+2017-06-21 15:42:50,068 UserRelsCrawler.py[line:75] INFO 已完成用户137766154的关注关系抓取
+2017-06-21 15:42:50,073 UserRelsCrawler.py[line:94] INFO 已将用户137766154的关注用户加入关系表
+2017-06-21 15:42:50,095 UserRelsCrawler.py[line:98] INFO 已将用户137766154的关注用户加入用户表
+2017-06-21 15:42:50,095 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:42:50 2017 开始抓取用户151272912的关注关系
+2017-06-21 15:43:02,346 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:43:02 2017 开始抓取用户achen89的关注关系
+2017-06-21 15:43:14,756 UserRelsCrawler.py[line:75] INFO 已完成用户151272912的关注关系抓取
+2017-06-21 15:43:14,763 UserRelsCrawler.py[line:94] INFO 已将用户151272912的关注用户加入关系表
+2017-06-21 15:43:14,801 UserRelsCrawler.py[line:98] INFO 已将用户151272912的关注用户加入用户表
+2017-06-21 15:43:14,802 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:43:14 2017 开始抓取用户120304567的关注关系
+2017-06-21 15:43:27,756 UserRelsCrawler.py[line:75] INFO 已完成用户achen89的关注关系抓取
+2017-06-21 15:43:27,762 UserRelsCrawler.py[line:94] INFO 已将用户achen89的关注用户加入关系表
+2017-06-21 15:43:27,880 UserRelsCrawler.py[line:98] INFO 已将用户achen89的关注用户加入用户表
+2017-06-21 15:43:27,881 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:43:27 2017 开始抓取用户yuye2016的关注关系
+2017-06-21 15:43:39,407 UserRelsCrawler.py[line:75] INFO 已完成用户120304567的关注关系抓取
+2017-06-21 15:43:39,413 UserRelsCrawler.py[line:94] INFO 已将用户120304567的关注用户加入关系表
+2017-06-21 15:43:39,430 UserRelsCrawler.py[line:98] INFO 已将用户120304567的关注用户加入用户表
+2017-06-21 15:43:39,431 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:43:39 2017 开始抓取用户80467516的关注关系
+2017-06-21 15:43:52,516 UserRelsCrawler.py[line:75] INFO 已完成用户yuye2016的关注关系抓取
+2017-06-21 15:43:52,520 UserRelsCrawler.py[line:94] INFO 已将用户yuye2016的关注用户加入关系表
+2017-06-21 15:43:52,525 UserRelsCrawler.py[line:98] INFO 已将用户yuye2016的关注用户加入用户表
+2017-06-21 15:43:52,526 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:43:52 2017 开始抓取用户84634081的关注关系
+2017-06-21 15:44:03,989 UserRelsCrawler.py[line:75] INFO 已完成用户80467516的关注关系抓取
+2017-06-21 15:44:03,994 UserRelsCrawler.py[line:94] INFO 已将用户80467516的关注用户加入关系表
+2017-06-21 15:44:04,020 UserRelsCrawler.py[line:98] INFO 已将用户80467516的关注用户加入用户表
+2017-06-21 15:44:04,020 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:44:04 2017 开始抓取用户142776909的关注关系
+2017-06-21 15:44:17,836 UserRelsCrawler.py[line:75] INFO 已完成用户84634081的关注关系抓取
+2017-06-21 15:44:17,841 UserRelsCrawler.py[line:94] INFO 已将用户84634081的关注用户加入关系表
+2017-06-21 15:44:17,905 UserRelsCrawler.py[line:98] INFO 已将用户84634081的关注用户加入用户表
+2017-06-21 15:44:17,905 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:44:17 2017 开始抓取用户57514530的关注关系
+2017-06-21 15:44:21,377 UserRelsCrawler.py[line:75] INFO 已完成用户narcissus_iris的关注关系抓取
+2017-06-21 15:44:21,381 UserRelsCrawler.py[line:94] INFO 已将用户narcissus_iris的关注用户加入关系表
+2017-06-21 15:44:23,041 UserRelsCrawler.py[line:98] INFO 已将用户narcissus_iris的关注用户加入用户表
+2017-06-21 15:44:23,042 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:44:23 2017 开始抓取用户gogotroy的关注关系
+2017-06-21 15:44:49,686 UserRelsCrawler.py[line:75] INFO 已完成用户zeajin的关注关系抓取
+2017-06-21 15:44:49,692 UserRelsCrawler.py[line:94] INFO 已将用户zeajin的关注用户加入关系表
+2017-06-21 15:44:50,472 UserRelsCrawler.py[line:98] INFO 已将用户zeajin的关注用户加入用户表
+2017-06-21 15:44:50,473 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:44:50 2017 开始抓取用户148013482的关注关系
+2017-06-21 15:45:40,708 UserRelsCrawler.py[line:75] INFO 已完成用户148013482的关注关系抓取
+2017-06-21 15:45:40,713 UserRelsCrawler.py[line:94] INFO 已将用户148013482的关注用户加入关系表
+2017-06-21 15:45:41,194 UserRelsCrawler.py[line:98] INFO 已将用户148013482的关注用户加入用户表
+2017-06-21 15:45:41,194 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:45:41 2017 开始抓取用户kanlixiang的关注关系
+2017-06-21 15:46:05,885 UserRelsCrawler.py[line:75] INFO 已完成用户kanlixiang的关注关系抓取
+2017-06-21 15:46:05,892 UserRelsCrawler.py[line:94] INFO 已将用户kanlixiang的关注用户加入关系表
+2017-06-21 15:46:05,939 UserRelsCrawler.py[line:98] INFO 已将用户kanlixiang的关注用户加入用户表
+2017-06-21 15:46:05,939 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:46:05 2017 开始抓取用户137078523的关注关系
+2017-06-21 15:46:23,256 UserRelsCrawler.py[line:75] INFO 已完成用户57514530的关注关系抓取
+2017-06-21 15:46:23,264 UserRelsCrawler.py[line:94] INFO 已将用户57514530的关注用户加入关系表
+2017-06-21 15:46:24,871 UserRelsCrawler.py[line:98] INFO 已将用户57514530的关注用户加入用户表
+2017-06-21 15:46:24,871 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:46:24 2017 开始抓取用户xiaoyelove520的关注关系
+2017-06-21 15:46:30,605 UserRelsCrawler.py[line:75] INFO 已完成用户137078523的关注关系抓取
+2017-06-21 15:46:30,612 UserRelsCrawler.py[line:94] INFO 已将用户137078523的关注用户加入关系表
+2017-06-21 15:46:30,618 UserRelsCrawler.py[line:98] INFO 已将用户137078523的关注用户加入用户表
+2017-06-21 15:46:30,619 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:46:30 2017 开始抓取用户139415033的关注关系
+2017-06-21 15:46:56,310 UserRelsCrawler.py[line:75] INFO 已完成用户139415033的关注关系抓取
+2017-06-21 15:46:56,316 UserRelsCrawler.py[line:94] INFO 已将用户139415033的关注用户加入关系表
+2017-06-21 15:46:56,443 UserRelsCrawler.py[line:98] INFO 已将用户139415033的关注用户加入用户表
+2017-06-21 15:46:56,444 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:46:56 2017 开始抓取用户pandora_pm的关注关系
+2017-06-21 15:46:58,177 UserRelsCrawler.py[line:75] INFO 已完成用户gogotroy的关注关系抓取
+2017-06-21 15:46:58,185 UserRelsCrawler.py[line:94] INFO 已将用户gogotroy的关注用户加入关系表
+2017-06-21 15:46:58,206 UserRelsCrawler.py[line:75] INFO 已完成用户pongba的关注关系抓取
+2017-06-21 15:46:58,211 UserRelsCrawler.py[line:94] INFO 已将用户pongba的关注用户加入关系表
+2017-06-21 15:46:59,359 UserRelsCrawler.py[line:98] INFO 已将用户gogotroy的关注用户加入用户表
+2017-06-21 15:46:59,360 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:46:59 2017 开始抓取用户900106287的关注关系
+2017-06-21 15:47:02,250 UserRelsCrawler.py[line:98] INFO 已将用户pongba的关注用户加入用户表
+2017-06-21 15:47:02,251 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:47:02 2017 开始抓取用户67027125的关注关系
+2017-06-21 15:47:23,649 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:47:23 2017 开始抓取用户iceeci的关注关系
+2017-06-21 15:47:47,126 UserRelsCrawler.py[line:75] INFO 已完成用户pandora_pm的关注关系抓取
+2017-06-21 15:47:47,133 UserRelsCrawler.py[line:94] INFO 已将用户pandora_pm的关注用户加入关系表
+2017-06-21 15:47:47,660 UserRelsCrawler.py[line:98] INFO 已将用户pandora_pm的关注用户加入用户表
+2017-06-21 15:47:47,660 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:47:47 2017 开始抓取用户sisyphe的关注关系
+2017-06-21 15:47:52,426 UserRelsCrawler.py[line:75] INFO 已完成用户67027125的关注关系抓取
+2017-06-21 15:47:52,434 UserRelsCrawler.py[line:94] INFO 已将用户67027125的关注用户加入关系表
+2017-06-21 15:47:52,673 UserRelsCrawler.py[line:98] INFO 已将用户67027125的关注用户加入用户表
+2017-06-21 15:47:52,674 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:47:52 2017 开始抓取用户melxia的关注关系
+2017-06-21 15:48:04,137 UserRelsCrawler.py[line:75] INFO 已完成用户xiaoyelove520的关注关系抓取
+2017-06-21 15:48:04,144 UserRelsCrawler.py[line:94] INFO 已将用户xiaoyelove520的关注用户加入关系表
+2017-06-21 15:48:05,212 UserRelsCrawler.py[line:98] INFO 已将用户xiaoyelove520的关注用户加入用户表
+2017-06-21 15:48:05,213 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:48:05 2017 开始抓取用户psyche1987的关注关系
+2017-06-21 15:48:13,246 UserRelsCrawler.py[line:75] INFO 已完成用户142776909的关注关系抓取
+2017-06-21 15:48:13,254 UserRelsCrawler.py[line:94] INFO 已将用户142776909的关注用户加入关系表
+2017-06-21 15:48:13,506 UserRelsCrawler.py[line:75] INFO 已完成用户iceeci的关注关系抓取
+2017-06-21 15:48:13,513 UserRelsCrawler.py[line:94] INFO 已将用户iceeci的关注用户加入关系表
+2017-06-21 15:48:13,764 UserRelsCrawler.py[line:98] INFO 已将用户iceeci的关注用户加入用户表
+2017-06-21 15:48:13,764 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:48:13 2017 开始抓取用户66515029的关注关系
+2017-06-21 15:48:16,082 UserRelsCrawler.py[line:98] INFO 已将用户142776909的关注用户加入用户表
+2017-06-21 15:48:16,082 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:48:16 2017 开始抓取用户1295210的关注关系
+2017-06-21 15:48:37,195 UserRelsCrawler.py[line:75] INFO 已完成用户sisyphe的关注关系抓取
+2017-06-21 15:48:37,203 UserRelsCrawler.py[line:94] INFO 已将用户sisyphe的关注用户加入关系表
+2017-06-21 15:48:37,490 UserRelsCrawler.py[line:98] INFO 已将用户sisyphe的关注用户加入用户表
+2017-06-21 15:48:37,490 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:48:37 2017 开始抓取用户900040903的关注关系
+2017-06-21 15:48:41,437 UserRelsCrawler.py[line:75] INFO 已完成用户1295210的关注关系抓取
+2017-06-21 15:48:41,443 UserRelsCrawler.py[line:94] INFO 已将用户1295210的关注用户加入关系表
+2017-06-21 15:48:41,736 UserRelsCrawler.py[line:98] INFO 已将用户1295210的关注用户加入用户表
+2017-06-21 15:48:41,737 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:48:41 2017 开始抓取用户haoel的关注关系
+2017-06-21 15:49:01,775 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:49:01 2017 开始抓取用户cloudwu的关注关系
+2017-06-21 15:49:03,516 UserRelsCrawler.py[line:75] INFO 已完成用户66515029的关注关系抓取
+2017-06-21 15:49:03,523 UserRelsCrawler.py[line:94] INFO 已将用户66515029的关注用户加入关系表
+2017-06-21 15:49:03,980 UserRelsCrawler.py[line:98] INFO 已将用户66515029的关注用户加入用户表
+2017-06-21 15:49:03,980 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:49:03 2017 开始抓取用户nw77的关注关系
+2017-06-21 15:49:06,428 UserRelsCrawler.py[line:75] INFO 已完成用户haoel的关注关系抓取
+2017-06-21 15:49:06,434 UserRelsCrawler.py[line:94] INFO 已将用户haoel的关注用户加入关系表
+2017-06-21 15:49:06,474 UserRelsCrawler.py[line:98] INFO 已将用户haoel的关注用户加入用户表
+2017-06-21 15:49:06,474 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:49:06 2017 开始抓取用户78667360的关注关系
+2017-06-21 15:49:21,240 UserRelsCrawler.py[line:75] INFO 已完成用户psyche1987的关注关系抓取
+2017-06-21 15:49:21,247 UserRelsCrawler.py[line:94] INFO 已将用户psyche1987的关注用户加入关系表
+2017-06-21 15:49:22,222 UserRelsCrawler.py[line:98] INFO 已将用户psyche1987的关注用户加入用户表
+2017-06-21 15:49:22,222 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:49:22 2017 开始抓取用户900076242的关注关系
+2017-06-21 15:49:31,215 UserRelsCrawler.py[line:75] INFO 已完成用户78667360的关注关系抓取
+2017-06-21 15:49:31,222 UserRelsCrawler.py[line:94] INFO 已将用户78667360的关注用户加入关系表
+2017-06-21 15:49:31,287 UserRelsCrawler.py[line:98] INFO 已将用户78667360的关注用户加入用户表
+2017-06-21 15:49:31,288 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:49:31 2017 开始抓取用户58939329的关注关系
+2017-06-21 15:49:33,816 UserRelsCrawler.py[line:75] INFO 已完成用户melxia的关注关系抓取
+2017-06-21 15:49:33,823 UserRelsCrawler.py[line:94] INFO 已将用户melxia的关注用户加入关系表
+2017-06-21 15:49:35,127 UserRelsCrawler.py[line:98] INFO 已将用户melxia的关注用户加入用户表
+2017-06-21 15:49:35,128 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:49:35 2017 开始抓取用户heatherheather的关注关系
+2017-06-21 15:49:46,487 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:49:46 2017 开始抓取用户lovekym的关注关系
+2017-06-21 15:49:51,596 UserRelsCrawler.py[line:75] INFO 已完成用户cloudwu的关注关系抓取
+2017-06-21 15:49:51,602 UserRelsCrawler.py[line:94] INFO 已将用户cloudwu的关注用户加入关系表
+2017-06-21 15:49:51,894 UserRelsCrawler.py[line:98] INFO 已将用户cloudwu的关注用户加入用户表
+2017-06-21 15:49:51,894 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:49:51 2017 开始抓取用户900023161的关注关系
+2017-06-21 15:49:55,928 UserRelsCrawler.py[line:75] INFO 已完成用户58939329的关注关系抓取
+2017-06-21 15:49:55,934 UserRelsCrawler.py[line:94] INFO 已将用户58939329的关注用户加入关系表
+2017-06-21 15:49:55,984 UserRelsCrawler.py[line:98] INFO 已将用户58939329的关注用户加入用户表
+2017-06-21 15:49:55,984 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:49:55 2017 开始抓取用户okkim的关注关系
+2017-06-21 15:50:16,160 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:50:16 2017 开始抓取用户cheqiqi的关注关系
+2017-06-21 15:50:19,606 UserRelsCrawler.py[line:75] INFO 已完成用户nw77的关注关系抓取
+2017-06-21 15:50:19,614 UserRelsCrawler.py[line:94] INFO 已将用户nw77的关注用户加入关系表
+2017-06-21 15:50:20,320 UserRelsCrawler.py[line:98] INFO 已将用户nw77的关注用户加入用户表
+2017-06-21 15:50:20,321 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:50:20 2017 开始抓取用户900035430的关注关系
+2017-06-21 15:50:40,408 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:50:40 2017 开始抓取用户jianyingzhou的关注关系
+2017-06-21 15:50:44,680 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:50:44 2017 开始抓取用户49826525的关注关系
+2017-06-21 15:50:47,566 UserRelsCrawler.py[line:75] INFO 已完成用户okkim的关注关系抓取
+2017-06-21 15:50:47,573 UserRelsCrawler.py[line:94] INFO 已将用户okkim的关注用户加入关系表
+2017-06-21 15:50:48,224 UserRelsCrawler.py[line:98] INFO 已将用户okkim的关注用户加入用户表
+2017-06-21 15:50:48,225 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:50:48 2017 开始抓取用户3301455的关注关系
+2017-06-21 15:51:09,346 UserRelsCrawler.py[line:75] INFO 已完成用户49826525的关注关系抓取
+2017-06-21 15:51:09,353 UserRelsCrawler.py[line:94] INFO 已将用户49826525的关注用户加入关系表
+2017-06-21 15:51:09,421 UserRelsCrawler.py[line:98] INFO 已将用户49826525的关注用户加入用户表
+2017-06-21 15:51:09,421 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:51:09 2017 开始抓取用户amphiwang的关注关系
+2017-06-21 15:51:12,875 UserRelsCrawler.py[line:75] INFO 已完成用户3301455的关注关系抓取
+2017-06-21 15:51:12,882 UserRelsCrawler.py[line:94] INFO 已将用户3301455的关注用户加入关系表
+2017-06-21 15:51:12,949 UserRelsCrawler.py[line:98] INFO 已将用户3301455的关注用户加入用户表
+2017-06-21 15:51:12,950 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:51:12 2017 开始抓取用户47938098的关注关系
+2017-06-21 15:51:26,495 UserRelsCrawler.py[line:75] INFO 已完成用户lovekym的关注关系抓取
+2017-06-21 15:51:26,503 UserRelsCrawler.py[line:94] INFO 已将用户lovekym的关注用户加入关系表
+2017-06-21 15:51:27,196 UserRelsCrawler.py[line:98] INFO 已将用户lovekym的关注用户加入用户表
+2017-06-21 15:51:27,197 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:51:27 2017 开始抓取用户sfwfree的关注关系
+2017-06-21 15:51:56,762 UserRelsCrawler.py[line:75] INFO 已完成用户jianyingzhou的关注关系抓取
+2017-06-21 15:51:56,770 UserRelsCrawler.py[line:94] INFO 已将用户jianyingzhou的关注用户加入关系表
+2017-06-21 15:51:57,431 UserRelsCrawler.py[line:98] INFO 已将用户jianyingzhou的关注用户加入用户表
+2017-06-21 15:51:57,432 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:51:57 2017 开始抓取用户mmmatrix的关注关系
+2017-06-21 15:52:42,987 UserRelsCrawler.py[line:75] INFO 已完成用户sfwfree的关注关系抓取
+2017-06-21 15:52:42,994 UserRelsCrawler.py[line:94] INFO 已将用户sfwfree的关注用户加入关系表
+2017-06-21 15:52:43,688 UserRelsCrawler.py[line:98] INFO 已将用户sfwfree的关注用户加入用户表
+2017-06-21 15:52:43,689 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:52:43 2017 开始抓取用户yakergong的关注关系
+2017-06-21 15:52:59,855 UserRelsCrawler.py[line:75] INFO 已完成用户heatherheather的关注关系抓取
+2017-06-21 15:52:59,863 UserRelsCrawler.py[line:94] INFO 已将用户heatherheather的关注用户加入关系表
+2017-06-21 15:53:01,679 UserRelsCrawler.py[line:98] INFO 已将用户heatherheather的关注用户加入用户表
+2017-06-21 15:53:01,680 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:53:01 2017 开始抓取用户900115470的关注关系
+2017-06-21 15:53:26,039 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:53:26 2017 开始抓取用户900022570的关注关系
+2017-06-21 15:53:38,765 UserRelsCrawler.py[line:75] INFO 已完成用户mmmatrix的关注关系抓取
+2017-06-21 15:53:38,772 UserRelsCrawler.py[line:94] INFO 已将用户mmmatrix的关注用户加入关系表
+2017-06-21 15:53:39,971 UserRelsCrawler.py[line:98] INFO 已将用户mmmatrix的关注用户加入用户表
+2017-06-21 15:53:39,972 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:53:39 2017 开始抓取用户figure9的关注关系
+2017-06-21 15:53:46,355 UserRelsCrawler.py[line:75] INFO 已完成用户47938098的关注关系抓取
+2017-06-21 15:53:46,361 UserRelsCrawler.py[line:94] INFO 已将用户47938098的关注用户加入关系表
+2017-06-21 15:53:48,773 UserRelsCrawler.py[line:98] INFO 已将用户47938098的关注用户加入用户表
+2017-06-21 15:53:48,774 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:53:48 2017 开始抓取用户900068128的关注关系
+2017-06-21 15:53:50,350 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:53:50 2017 开始抓取用户youxu的关注关系
+2017-06-21 15:53:59,515 UserRelsCrawler.py[line:75] INFO 已完成用户yakergong的关注关系抓取
+2017-06-21 15:53:59,523 UserRelsCrawler.py[line:94] INFO 已将用户yakergong的关注用户加入关系表
+2017-06-21 15:54:00,533 UserRelsCrawler.py[line:98] INFO 已将用户yakergong的关注用户加入用户表
+2017-06-21 15:54:00,534 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:54:00 2017 开始抓取用户forrestyu的关注关系
+2017-06-21 15:54:05,155 UserRelsCrawler.py[line:75] INFO 已完成用户figure9的关注关系抓取
+2017-06-21 15:54:05,162 UserRelsCrawler.py[line:94] INFO 已将用户figure9的关注用户加入关系表
+2017-06-21 15:54:05,402 UserRelsCrawler.py[line:98] INFO 已将用户figure9的关注用户加入用户表
+2017-06-21 15:54:05,402 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:54:05 2017 开始抓取用户149274706的关注关系
+2017-06-21 15:54:13,059 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:54:13 2017 开始抓取用户wow36kr的关注关系
+2017-06-21 15:54:26,090 UserRelsCrawler.py[line:75] INFO 已完成用户forrestyu的关注关系抓取
+2017-06-21 15:54:26,095 UserRelsCrawler.py[line:94] INFO 已将用户forrestyu的关注用户加入关系表
+2017-06-21 15:54:26,209 UserRelsCrawler.py[line:98] INFO 已将用户forrestyu的关注用户加入用户表
+2017-06-21 15:54:26,209 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:54:26 2017 开始抓取用户guo_betty的关注关系
+2017-06-21 15:54:30,385 UserRelsCrawler.py[line:75] INFO 已完成用户149274706的关注关系抓取
+2017-06-21 15:54:30,391 UserRelsCrawler.py[line:94] INFO 已将用户149274706的关注用户加入关系表
+2017-06-21 15:54:30,555 UserRelsCrawler.py[line:98] INFO 已将用户149274706的关注用户加入用户表
+2017-06-21 15:54:30,555 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:54:30 2017 开始抓取用户kimiamor的关注关系
+2017-06-21 15:54:37,353 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:54:37 2017 开始抓取用户linkku的关注关系
+2017-06-21 15:55:56,256 UserRelsCrawler.py[line:75] INFO 已完成用户amphiwang的关注关系抓取
+2017-06-21 15:55:56,264 UserRelsCrawler.py[line:94] INFO 已将用户amphiwang的关注用户加入关系表
+2017-06-21 15:56:00,677 UserRelsCrawler.py[line:98] INFO 已将用户amphiwang的关注用户加入用户表
+2017-06-21 15:56:00,677 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:56:00 2017 开始抓取用户2058029的关注关系
+2017-06-21 15:56:07,854 UserRelsCrawler.py[line:75] INFO 已完成用户guo_betty的关注关系抓取
+2017-06-21 15:56:07,862 UserRelsCrawler.py[line:94] INFO 已将用户guo_betty的关注用户加入关系表
+2017-06-21 15:56:09,157 UserRelsCrawler.py[line:98] INFO 已将用户guo_betty的关注用户加入用户表
+2017-06-21 15:56:09,158 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:56:09 2017 开始抓取用户amberose的关注关系
+2017-06-21 15:56:36,614 UserRelsCrawler.py[line:75] INFO 已完成用户kimiamor的关注关系抓取
+2017-06-21 15:56:36,618 UserRelsCrawler.py[line:94] INFO 已将用户kimiamor的关注用户加入关系表
+2017-06-21 15:56:38,329 UserRelsCrawler.py[line:98] INFO 已将用户kimiamor的关注用户加入用户表
+2017-06-21 15:56:38,329 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:56:38 2017 开始抓取用户1452241的关注关系
+2017-06-21 15:56:47,005 UserRelsCrawler.py[line:75] INFO 已完成用户youxu的关注关系抓取
+2017-06-21 15:56:47,013 UserRelsCrawler.py[line:94] INFO 已将用户youxu的关注用户加入关系表
+2017-06-21 15:56:49,723 UserRelsCrawler.py[line:98] INFO 已将用户youxu的关注用户加入用户表
+2017-06-21 15:56:49,723 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:56:49 2017 开始抓取用户60212341的关注关系
+2017-06-21 15:59:27,014 UserRelsCrawler.py[line:75] INFO 已完成用户2058029的关注关系抓取
+2017-06-21 15:59:27,021 UserRelsCrawler.py[line:94] INFO 已将用户2058029的关注用户加入关系表
+2017-06-21 15:59:29,100 UserRelsCrawler.py[line:98] INFO 已将用户2058029的关注用户加入用户表
+2017-06-21 15:59:29,101 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:59:29 2017 开始抓取用户908483996的关注关系
+2017-06-21 15:59:57,399 UserRelsCrawler.py[line:89] INFO Wed Jun 21 15:59:57 2017 开始抓取用户ahbei的关注关系
+2017-06-21 16:01:26,254 UserRelsCrawler.py[line:75] INFO 已完成用户1452241的关注关系抓取
+2017-06-21 16:01:26,262 UserRelsCrawler.py[line:94] INFO 已将用户1452241的关注用户加入关系表
+2017-06-21 16:01:29,455 UserRelsCrawler.py[line:98] INFO 已将用户1452241的关注用户加入用户表
+2017-06-21 16:01:29,456 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:01:29 2017 开始抓取用户zhaoxd的关注关系
+2017-06-21 16:01:51,494 UserRelsCrawler.py[line:75] INFO 已完成用户amberose的关注关系抓取
+2017-06-21 16:01:51,503 UserRelsCrawler.py[line:94] INFO 已将用户amberose的关注用户加入关系表
+2017-06-21 16:01:56,140 UserRelsCrawler.py[line:98] INFO 已将用户amberose的关注用户加入用户表
+2017-06-21 16:01:56,140 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:01:56 2017 开始抓取用户zhihu的关注关系
+2017-06-21 16:02:20,765 UserRelsCrawler.py[line:75] INFO 已完成用户zhihu的关注关系抓取
+2017-06-21 16:02:20,772 UserRelsCrawler.py[line:94] INFO 已将用户zhihu的关注用户加入关系表
+2017-06-21 16:02:20,818 UserRelsCrawler.py[line:98] INFO 已将用户zhihu的关注用户加入用户表
+2017-06-21 16:02:20,819 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:02:20 2017 开始抓取用户76338647的关注关系
+2017-06-21 16:02:45,933 UserRelsCrawler.py[line:75] INFO 已完成用户76338647的关注关系抓取
+2017-06-21 16:02:45,940 UserRelsCrawler.py[line:94] INFO 已将用户76338647的关注用户加入关系表
+2017-06-21 16:02:46,189 UserRelsCrawler.py[line:98] INFO 已将用户76338647的关注用户加入用户表
+2017-06-21 16:02:46,189 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:02:46 2017 开始抓取用户4685968的关注关系
+2017-06-21 16:03:10,446 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:03:10 2017 开始抓取用户900001647的关注关系
+2017-06-21 16:03:34,736 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:03:34 2017 开始抓取用户900109989的关注关系
+2017-06-21 16:03:59,084 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:03:59 2017 开始抓取用户tannin的关注关系
+2017-06-21 16:04:11,164 UserRelsCrawler.py[line:75] INFO 已完成用户ahbei的关注关系抓取
+2017-06-21 16:04:11,173 UserRelsCrawler.py[line:94] INFO 已将用户ahbei的关注用户加入关系表
+2017-06-21 16:04:14,496 UserRelsCrawler.py[line:98] INFO 已将用户ahbei的关注用户加入用户表
+2017-06-21 16:04:14,497 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:04:14 2017 开始抓取用户kkw的关注关系
+2017-06-21 16:04:24,684 UserRelsCrawler.py[line:75] INFO 已完成用户zhaoxd的关注关系抓取
+2017-06-21 16:04:24,692 UserRelsCrawler.py[line:94] INFO 已将用户zhaoxd的关注用户加入关系表
+2017-06-21 16:04:27,383 UserRelsCrawler.py[line:98] INFO 已将用户zhaoxd的关注用户加入用户表
+2017-06-21 16:04:27,384 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:04:27 2017 开始抓取用户jhz的关注关系
+2017-06-21 16:07:15,034 UserRelsCrawler.py[line:75] INFO 已完成用户linkku的关注关系抓取
+2017-06-21 16:07:15,044 UserRelsCrawler.py[line:94] INFO 已将用户linkku的关注用户加入关系表
+2017-06-21 16:07:27,307 UserRelsCrawler.py[line:98] INFO 已将用户linkku的关注用户加入用户表
+2017-06-21 16:07:27,307 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:07:27 2017 开始抓取用户keso的关注关系
+2017-06-21 16:07:29,873 UserRelsCrawler.py[line:75] INFO 已完成用户60212341的关注关系抓取
+2017-06-21 16:07:29,884 UserRelsCrawler.py[line:94] INFO 已将用户60212341的关注用户加入关系表
+2017-06-21 16:07:38,326 UserRelsCrawler.py[line:98] INFO 已将用户60212341的关注用户加入用户表
+2017-06-21 16:07:38,326 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:07:38 2017 开始抓取用户Felven的关注关系
+2017-06-21 16:08:34,756 UserRelsCrawler.py[line:75] INFO 已完成用户Felven的关注关系抓取
+2017-06-21 16:08:34,763 UserRelsCrawler.py[line:94] INFO 已将用户Felven的关注用户加入关系表
+2017-06-21 16:08:35,144 UserRelsCrawler.py[line:98] INFO 已将用户Felven的关注用户加入用户表
+2017-06-21 16:08:35,145 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:08:35 2017 开始抓取用户Daniellekreuz的关注关系
+2017-06-21 16:09:02,725 UserRelsCrawler.py[line:75] INFO 已完成用户tannin的关注关系抓取
+2017-06-21 16:09:02,734 UserRelsCrawler.py[line:94] INFO 已将用户tannin的关注用户加入关系表
+2017-06-21 16:09:06,882 UserRelsCrawler.py[line:98] INFO 已将用户tannin的关注用户加入用户表
+2017-06-21 16:09:06,883 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:09:06 2017 开始抓取用户whales的关注关系
+2017-06-21 16:09:09,824 UserRelsCrawler.py[line:75] INFO 已完成用户jhz的关注关系抓取
+2017-06-21 16:09:09,832 UserRelsCrawler.py[line:94] INFO 已将用户jhz的关注用户加入关系表
+2017-06-21 16:09:15,308 UserRelsCrawler.py[line:98] INFO 已将用户jhz的关注用户加入用户表
+2017-06-21 16:09:15,308 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:09:15 2017 开始抓取用户keledoll的关注关系
+2017-06-21 16:09:19,094 UserRelsCrawler.py[line:75] INFO 已完成用户kkw的关注关系抓取
+2017-06-21 16:09:19,102 UserRelsCrawler.py[line:94] INFO 已将用户kkw的关注用户加入关系表
+2017-06-21 16:09:23,125 UserRelsCrawler.py[line:98] INFO 已将用户kkw的关注用户加入用户表
+2017-06-21 16:09:23,126 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:09:23 2017 开始抓取用户yurii的关注关系
+2017-06-21 16:11:08,603 UserRelsCrawler.py[line:75] INFO 已完成用户Daniellekreuz的关注关系抓取
+2017-06-21 16:11:08,611 UserRelsCrawler.py[line:94] INFO 已将用户Daniellekreuz的关注用户加入关系表
+2017-06-21 16:11:10,826 UserRelsCrawler.py[line:98] INFO 已将用户Daniellekreuz的关注用户加入用户表
+2017-06-21 16:11:10,827 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:11:10 2017 开始抓取用户ulva的关注关系
+2017-06-21 16:11:54,673 UserRelsCrawler.py[line:75] INFO 已完成用户yurii的关注关系抓取
+2017-06-21 16:11:54,681 UserRelsCrawler.py[line:94] INFO 已将用户yurii的关注用户加入关系表
+2017-06-21 16:11:57,316 UserRelsCrawler.py[line:98] INFO 已将用户yurii的关注用户加入用户表
+2017-06-21 16:11:57,317 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:11:57 2017 开始抓取用户xiachufang的关注关系
+2017-06-21 16:12:26,195 UserRelsCrawler.py[line:75] INFO 已完成用户ulva的关注关系抓取
+2017-06-21 16:12:26,198 UserRelsCrawler.py[line:94] INFO 已将用户ulva的关注用户加入关系表
+2017-06-21 16:12:27,493 UserRelsCrawler.py[line:98] INFO 已将用户ulva的关注用户加入用户表
+2017-06-21 16:12:27,494 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:12:27 2017 开始抓取用户64518259的关注关系
+2017-06-21 16:12:52,303 UserRelsCrawler.py[line:75] INFO 已完成用户64518259的关注关系抓取
+2017-06-21 16:12:52,316 UserRelsCrawler.py[line:94] INFO 已将用户64518259的关注用户加入关系表
+2017-06-21 16:12:52,453 UserRelsCrawler.py[line:98] INFO 已将用户64518259的关注用户加入用户表
+2017-06-21 16:12:52,453 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:12:52 2017 开始抓取用户hjcn的关注关系
+2017-06-21 16:13:17,806 UserRelsCrawler.py[line:75] INFO 已完成用户hjcn的关注关系抓取
+2017-06-21 16:13:17,813 UserRelsCrawler.py[line:94] INFO 已将用户hjcn的关注用户加入关系表
+2017-06-21 16:13:18,125 UserRelsCrawler.py[line:98] INFO 已将用户hjcn的关注用户加入用户表
+2017-06-21 16:13:18,125 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:13:18 2017 开始抓取用户900031065的关注关系
+2017-06-21 16:13:42,407 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:13:42 2017 开始抓取用户plumestreet的关注关系
+2017-06-21 16:15:44,489 UserRelsCrawler.py[line:40] INFO 当前使用代理89.36.214.205:1189
+2017-06-21 16:15:44,493 UserRelsCrawler.py[line:40] INFO 当前使用代理118.190.14.150:3128
+2017-06-21 16:15:44,492 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:15:44 2017 开始抓取用户158563799的关注关系
+2017-06-21 16:15:44,496 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:15:44 2017 开始抓取用户99787253的关注关系
+2017-06-21 16:15:44,501 UserRelsCrawler.py[line:40] INFO 当前使用代理94.177.234.205:1189
+2017-06-21 16:15:44,505 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:15:44 2017 开始抓取用户feisun的关注关系
+2017-06-21 16:15:44,510 UserRelsCrawler.py[line:40] INFO 当前使用代理185.35.64.209:1189
+2017-06-21 16:15:44,510 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:15:44 2017 开始抓取用户3310858的关注关系
+2017-06-21 16:15:44,512 UserRelsCrawler.py[line:40] INFO 当前使用代理180.210.205.110:3129
+2017-06-21 16:15:44,515 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:15:44 2017 开始抓取用户2139063的关注关系
+2017-06-21 16:16:08,875 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:08 2017 开始抓取用户nilin56的关注关系
+2017-06-21 16:16:08,999 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:08 2017 开始抓取用户41286636的关注关系
+2017-06-21 16:16:09,382 UserRelsCrawler.py[line:75] INFO 已完成用户158563799的关注关系抓取
+2017-06-21 16:16:09,389 UserRelsCrawler.py[line:94] INFO 已将用户158563799的关注用户加入关系表
+2017-06-21 16:16:09,417 UserRelsCrawler.py[line:98] INFO 已将用户158563799的关注用户加入用户表
+2017-06-21 16:16:09,417 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:09 2017 开始抓取用户900068114的关注关系
+2017-06-21 16:16:09,613 UserRelsCrawler.py[line:75] INFO 已完成用户feisun的关注关系抓取
+2017-06-21 16:16:09,615 UserRelsCrawler.py[line:94] INFO 已将用户feisun的关注用户加入关系表
+2017-06-21 16:16:09,638 UserRelsCrawler.py[line:98] INFO 已将用户feisun的关注用户加入用户表
+2017-06-21 16:16:09,638 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:09 2017 开始抓取用户Japhon的关注关系
+2017-06-21 16:16:33,683 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:33 2017 开始抓取用户xunweiyulin的关注关系
+2017-06-21 16:16:33,864 UserRelsCrawler.py[line:75] INFO 已完成用户41286636的关注关系抓取
+2017-06-21 16:16:33,869 UserRelsCrawler.py[line:94] INFO 已将用户41286636的关注用户加入关系表
+2017-06-21 16:16:33,899 UserRelsCrawler.py[line:98] INFO 已将用户41286636的关注用户加入用户表
+2017-06-21 16:16:33,900 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:33 2017 开始抓取用户CloudRiver的关注关系
+2017-06-21 16:16:34,244 UserRelsCrawler.py[line:75] INFO 已完成用户Japhon的关注关系抓取
+2017-06-21 16:16:34,249 UserRelsCrawler.py[line:94] INFO 已将用户Japhon的关注用户加入关系表
+2017-06-21 16:16:34,272 UserRelsCrawler.py[line:98] INFO 已将用户Japhon的关注用户加入用户表
+2017-06-21 16:16:34,273 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:34 2017 开始抓取用户2052674的关注关系
+2017-06-21 16:16:34,322 UserRelsCrawler.py[line:75] INFO 已完成用户2139063的关注关系抓取
+2017-06-21 16:16:34,327 UserRelsCrawler.py[line:94] INFO 已将用户2139063的关注用户加入关系表
+2017-06-21 16:16:34,389 UserRelsCrawler.py[line:98] INFO 已将用户2139063的关注用户加入用户表
+2017-06-21 16:16:34,390 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:34 2017 开始抓取用户106415的关注关系
+2017-06-21 16:16:58,656 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:58 2017 开始抓取用户jasonnju的关注关系
+2017-06-21 16:16:58,742 UserRelsCrawler.py[line:75] INFO 已完成用户xunweiyulin的关注关系抓取
+2017-06-21 16:16:58,747 UserRelsCrawler.py[line:94] INFO 已将用户xunweiyulin的关注用户加入关系表
+2017-06-21 16:16:58,850 UserRelsCrawler.py[line:98] INFO 已将用户xunweiyulin的关注用户加入用户表
+2017-06-21 16:16:58,850 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:58 2017 开始抓取用户shilonggang的关注关系
+2017-06-21 16:16:59,042 UserRelsCrawler.py[line:75] INFO 已完成用户2052674的关注关系抓取
+2017-06-21 16:16:59,048 UserRelsCrawler.py[line:94] INFO 已将用户2052674的关注用户加入关系表
+2017-06-21 16:16:59,088 UserRelsCrawler.py[line:98] INFO 已将用户2052674的关注用户加入用户表
+2017-06-21 16:16:59,089 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:16:59 2017 开始抓取用户4263471的关注关系
+2017-06-21 16:17:23,372 UserRelsCrawler.py[line:75] INFO 已完成用户jasonnju的关注关系抓取
+2017-06-21 16:17:23,377 UserRelsCrawler.py[line:94] INFO 已将用户jasonnju的关注用户加入关系表
+2017-06-21 16:17:23,427 UserRelsCrawler.py[line:98] INFO 已将用户jasonnju的关注用户加入用户表
+2017-06-21 16:17:23,427 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:17:23 2017 开始抓取用户childhood1987的关注关系
+2017-06-21 16:17:23,732 UserRelsCrawler.py[line:75] INFO 已完成用户shilonggang的关注关系抓取
+2017-06-21 16:17:23,736 UserRelsCrawler.py[line:94] INFO 已将用户shilonggang的关注用户加入关系表
+2017-06-21 16:17:23,812 UserRelsCrawler.py[line:98] INFO 已将用户shilonggang的关注用户加入用户表
+2017-06-21 16:17:23,812 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:17:23 2017 开始抓取用户gavin1332的关注关系
+2017-06-21 16:17:23,872 UserRelsCrawler.py[line:75] INFO 已完成用户4263471的关注关系抓取
+2017-06-21 16:17:23,878 UserRelsCrawler.py[line:94] INFO 已将用户4263471的关注用户加入关系表
+2017-06-21 16:17:23,897 UserRelsCrawler.py[line:98] INFO 已将用户4263471的关注用户加入用户表
+2017-06-21 16:17:23,898 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:17:23 2017 开始抓取用户3142304的关注关系
+2017-06-21 16:17:49,886 UserRelsCrawler.py[line:75] INFO 已完成用户childhood1987的关注关系抓取
+2017-06-21 16:17:49,893 UserRelsCrawler.py[line:94] INFO 已将用户childhood1987的关注用户加入关系表
+2017-06-21 16:17:49,952 UserRelsCrawler.py[line:98] INFO 已将用户childhood1987的关注用户加入用户表
+2017-06-21 16:17:49,952 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:17:49 2017 开始抓取用户mafeiandband的关注关系
+2017-06-21 16:17:50,880 UserRelsCrawler.py[line:75] INFO 已完成用户gavin1332的关注关系抓取
+2017-06-21 16:17:50,885 UserRelsCrawler.py[line:94] INFO 已将用户gavin1332的关注用户加入关系表
+2017-06-21 16:17:50,899 UserRelsCrawler.py[line:98] INFO 已将用户gavin1332的关注用户加入用户表
+2017-06-21 16:17:50,900 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:17:50 2017 开始抓取用户jianghujiubar的关注关系
+2017-06-21 16:17:51,358 UserRelsCrawler.py[line:75] INFO 已完成用户3142304的关注关系抓取
+2017-06-21 16:17:51,360 UserRelsCrawler.py[line:94] INFO 已将用户3142304的关注用户加入关系表
+2017-06-21 16:17:51,378 UserRelsCrawler.py[line:98] INFO 已将用户3142304的关注用户加入用户表
+2017-06-21 16:17:51,378 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:17:51 2017 开始抓取用户Yuanerartstudio的关注关系
+2017-06-21 16:18:15,636 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:18:15 2017 开始抓取用户155253534的关注关系
+2017-06-21 16:18:19,209 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:18:19 2017 开始抓取用户50478799的关注关系
+2017-06-21 16:18:40,240 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:18:40 2017 开始抓取用户luoruisheng的关注关系
+2017-06-21 16:19:30,053 UserRelsCrawler.py[line:75] INFO 已完成用户CloudRiver的关注关系抓取
+2017-06-21 16:19:30,060 UserRelsCrawler.py[line:94] INFO 已将用户CloudRiver的关注用户加入关系表
+2017-06-21 16:19:30,535 UserRelsCrawler.py[line:98] INFO 已将用户CloudRiver的关注用户加入用户表
+2017-06-21 16:19:30,536 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:19:30 2017 开始抓取用户124569730的关注关系
+2017-06-21 16:20:19,945 UserRelsCrawler.py[line:75] INFO 已完成用户nilin56的关注关系抓取
+2017-06-21 16:20:19,951 UserRelsCrawler.py[line:94] INFO 已将用户nilin56的关注用户加入关系表
+2017-06-21 16:20:20,534 UserRelsCrawler.py[line:98] INFO 已将用户nilin56的关注用户加入用户表
+2017-06-21 16:20:20,534 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:20:20 2017 开始抓取用户144626326的关注关系
+2017-06-21 16:21:34,619 UserRelsCrawler.py[line:75] INFO 已完成用户luoruisheng的关注关系抓取
+2017-06-21 16:21:34,626 UserRelsCrawler.py[line:94] INFO 已将用户luoruisheng的关注用户加入关系表
+2017-06-21 16:21:34,722 UserRelsCrawler.py[line:75] INFO 已完成用户144626326的关注关系抓取
+2017-06-21 16:21:34,728 UserRelsCrawler.py[line:94] INFO 已将用户144626326的关注用户加入关系表
+2017-06-21 16:21:35,418 UserRelsCrawler.py[line:98] INFO 已将用户144626326的关注用户加入用户表
+2017-06-21 16:21:35,418 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:21:35 2017 开始抓取用户140553819的关注关系
+2017-06-21 16:21:36,291 UserRelsCrawler.py[line:98] INFO 已将用户luoruisheng的关注用户加入用户表
+2017-06-21 16:21:36,292 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:21:36 2017 开始抓取用户149113392的关注关系
+2017-06-21 16:22:00,172 UserRelsCrawler.py[line:75] INFO 已完成用户140553819的关注关系抓取
+2017-06-21 16:22:00,176 UserRelsCrawler.py[line:94] INFO 已将用户140553819的关注用户加入关系表
+2017-06-21 16:22:00,261 UserRelsCrawler.py[line:98] INFO 已将用户140553819的关注用户加入用户表
+2017-06-21 16:22:00,261 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:22:00 2017 开始抓取用户154066421的关注关系
+2017-06-21 16:22:00,961 UserRelsCrawler.py[line:75] INFO 已完成用户149113392的关注关系抓取
+2017-06-21 16:22:00,968 UserRelsCrawler.py[line:94] INFO 已将用户149113392的关注用户加入关系表
+2017-06-21 16:22:01,023 UserRelsCrawler.py[line:98] INFO 已将用户149113392的关注用户加入用户表
+2017-06-21 16:22:01,024 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:22:01 2017 开始抓取用户145895915的关注关系
+2017-06-21 16:22:25,712 UserRelsCrawler.py[line:75] INFO 已完成用户145895915的关注关系抓取
+2017-06-21 16:22:25,720 UserRelsCrawler.py[line:94] INFO 已将用户145895915的关注用户加入关系表
+2017-06-21 16:22:25,735 UserRelsCrawler.py[line:98] INFO 已将用户145895915的关注用户加入用户表
+2017-06-21 16:22:25,735 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:22:25 2017 开始抓取用户63311974的关注关系
+2017-06-21 16:22:50,911 UserRelsCrawler.py[line:75] INFO 已完成用户63311974的关注关系抓取
+2017-06-21 16:22:50,916 UserRelsCrawler.py[line:94] INFO 已将用户63311974的关注用户加入关系表
+2017-06-21 16:22:51,050 UserRelsCrawler.py[line:98] INFO 已将用户63311974的关注用户加入用户表
+2017-06-21 16:22:51,050 UserRelsCrawler.py[line:89] INFO Wed Jun 21 16:22:51 2017 开始抓取用户121417924的关注关系
+2017-06-21 16:53:00,196 UserRelsCrawler.py[line:42] INFO 当前使用代理89.38.149.200:1189
+2017-06-21 16:53:00,198 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:00 2017 开始抓取用户99787253的关注关系
+2017-06-21 16:53:00,203 UserRelsCrawler.py[line:42] INFO 当前使用代理94.177.237.144:1189
+2017-06-21 16:53:00,203 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:00 2017 开始抓取用户3310858的关注关系
+2017-06-21 16:53:00,206 UserRelsCrawler.py[line:42] INFO 当前使用代理202.168.148.243:3128
+2017-06-21 16:53:00,208 UserRelsCrawler.py[line:42] INFO 当前使用代理103.76.21.58:8080
+2017-06-21 16:53:00,207 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:00 2017 开始抓取用户900068114的关注关系
+2017-06-21 16:53:00,209 UserRelsCrawler.py[line:42] INFO 当前使用代理112.140.184.136:3128
+2017-06-21 16:53:00,212 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:00 2017 开始抓取用户106415的关注关系
+2017-06-21 16:53:00,213 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:00 2017 开始抓取用户mafeiandband的关注关系
+2017-06-21 16:53:24,455 UserRelsCrawler.py[line:70] INFO 当前用户900068114关注关系抓取失败！
+2017-06-21 16:53:24,456 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:24 2017 开始抓取用户jianghujiubar的关注关系
+2017-06-21 16:53:24,468 UserRelsCrawler.py[line:70] INFO 当前用户99787253关注关系抓取失败！
+2017-06-21 16:53:24,469 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:24 2017 开始抓取用户Yuanerartstudio的关注关系
+2017-06-21 16:53:24,476 UserRelsCrawler.py[line:70] INFO 当前用户3310858关注关系抓取失败！
+2017-06-21 16:53:24,477 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:24 2017 开始抓取用户155253534的关注关系
+2017-06-21 16:53:24,479 UserRelsCrawler.py[line:70] INFO 当前用户mafeiandband关注关系抓取失败！
+2017-06-21 16:53:24,480 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:24 2017 开始抓取用户50478799的关注关系
+2017-06-21 16:53:24,484 UserRelsCrawler.py[line:70] INFO 当前用户106415关注关系抓取失败！
+2017-06-21 16:53:24,484 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:24 2017 开始抓取用户124569730的关注关系
+2017-06-21 16:53:48,705 UserRelsCrawler.py[line:70] INFO 当前用户jianghujiubar关注关系抓取失败！
+2017-06-21 16:53:48,705 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:48 2017 开始抓取用户154066421的关注关系
+2017-06-21 16:53:48,765 UserRelsCrawler.py[line:70] INFO 当前用户155253534关注关系抓取失败！
+2017-06-21 16:53:48,766 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:53:48 2017 开始抓取用户121417924的关注关系
+2017-06-21 16:54:13,401 UserRelsCrawler.py[line:80] INFO 已完成用户121417924的关注关系抓取
+2017-06-21 16:54:13,411 UserRelsCrawler.py[line:99] INFO 已将用户121417924的关注用户加入关系表
+2017-06-21 16:54:13,555 UserRelsCrawler.py[line:103] INFO 已将用户121417924的关注用户加入用户表
+2017-06-21 16:54:13,556 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:54:13 2017 开始抓取用户44284467的关注关系
+2017-06-21 16:56:02,330 UserRelsCrawler.py[line:42] INFO 当前使用代理89.40.113.150:1189
+2017-06-21 16:56:02,329 UserRelsCrawler.py[line:42] INFO 当前使用代理108.61.208.35:1189
+2017-06-21 16:56:02,331 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:02 2017 开始抓取用户99787253的关注关系
+2017-06-21 16:56:02,331 UserRelsCrawler.py[line:42] INFO 当前使用代理117.43.1.79:808
+2017-06-21 16:56:02,337 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:02 2017 开始抓取用户3310858的关注关系
+2017-06-21 16:56:02,336 UserRelsCrawler.py[line:42] INFO 当前使用代理94.177.236.11:1189
+2017-06-21 16:56:02,340 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:02 2017 开始抓取用户106415的关注关系
+2017-06-21 16:56:02,340 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:02 2017 开始抓取用户900068114的关注关系
+2017-06-21 16:56:02,344 UserRelsCrawler.py[line:42] INFO 当前使用代理120.77.210.59:80
+2017-06-21 16:56:02,344 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:02 2017 开始抓取用户mafeiandband的关注关系
+2017-06-21 16:56:26,595 UserRelsCrawler.py[line:70] INFO 当前用户99787253关注关系抓取失败！
+2017-06-21 16:56:26,596 UserRelsCrawler.py[line:70] INFO 当前用户900068114关注关系抓取失败！
+2017-06-21 16:56:26,597 UserRelsCrawler.py[line:70] INFO 当前用户106415关注关系抓取失败！
+2017-06-21 16:56:26,598 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:26 2017 开始抓取用户Yuanerartstudio的关注关系
+2017-06-21 16:56:26,598 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:26 2017 开始抓取用户155253534的关注关系
+2017-06-21 16:56:26,597 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:26 2017 开始抓取用户jianghujiubar的关注关系
+2017-06-21 16:56:26,605 UserRelsCrawler.py[line:70] INFO 当前用户mafeiandband关注关系抓取失败！
+2017-06-21 16:56:26,606 UserRelsCrawler.py[line:70] INFO 当前用户3310858关注关系抓取失败！
+2017-06-21 16:56:26,606 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:26 2017 开始抓取用户50478799的关注关系
+2017-06-21 16:56:26,607 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:26 2017 开始抓取用户124569730的关注关系
+2017-06-21 16:56:50,842 UserRelsCrawler.py[line:70] INFO 当前用户jianghujiubar关注关系抓取失败！
+2017-06-21 16:56:50,843 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:50 2017 开始抓取用户154066421的关注关系
+2017-06-21 16:56:50,862 UserRelsCrawler.py[line:70] INFO 当前用户155253534关注关系抓取失败！
+2017-06-21 16:56:50,862 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:56:50 2017 开始抓取用户44284467的关注关系
+2017-06-21 16:58:04,989 UserRelsCrawler.py[line:80] INFO 已完成用户154066421的关注关系抓取
+2017-06-21 16:58:04,997 UserRelsCrawler.py[line:99] INFO 已将用户154066421的关注用户加入关系表
+2017-06-21 16:58:05,486 UserRelsCrawler.py[line:103] INFO 已将用户154066421的关注用户加入用户表
+2017-06-21 16:58:05,486 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:58:05 2017 开始抓取用户121778676的关注关系
+2017-06-21 16:58:30,052 UserRelsCrawler.py[line:80] INFO 已完成用户121778676的关注关系抓取
+2017-06-21 16:58:30,057 UserRelsCrawler.py[line:99] INFO 已将用户121778676的关注用户加入关系表
+2017-06-21 16:58:30,067 UserRelsCrawler.py[line:103] INFO 已将用户121778676的关注用户加入用户表
+2017-06-21 16:58:30,067 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:58:30 2017 开始抓取用户139327901的关注关系
+2017-06-21 16:58:55,511 UserRelsCrawler.py[line:80] INFO 已完成用户139327901的关注关系抓取
+2017-06-21 16:58:55,517 UserRelsCrawler.py[line:99] INFO 已将用户139327901的关注用户加入关系表
+2017-06-21 16:58:55,539 UserRelsCrawler.py[line:80] INFO 已完成用户44284467的关注关系抓取
+2017-06-21 16:58:55,543 UserRelsCrawler.py[line:99] INFO 已将用户44284467的关注用户加入关系表
+2017-06-21 16:58:55,572 UserRelsCrawler.py[line:103] INFO 已将用户139327901的关注用户加入用户表
+2017-06-21 16:58:55,572 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:58:55 2017 开始抓取用户songjunvip的关注关系
+2017-06-21 16:58:56,696 UserRelsCrawler.py[line:103] INFO 已将用户44284467的关注用户加入用户表
+2017-06-21 16:58:56,697 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:58:56 2017 开始抓取用户147893461的关注关系
+2017-06-21 16:59:22,371 UserRelsCrawler.py[line:80] INFO 已完成用户147893461的关注关系抓取
+2017-06-21 16:59:22,376 UserRelsCrawler.py[line:99] INFO 已将用户147893461的关注用户加入关系表
+2017-06-21 16:59:22,411 UserRelsCrawler.py[line:103] INFO 已将用户147893461的关注用户加入用户表
+2017-06-21 16:59:22,411 UserRelsCrawler.py[line:94] INFO Wed Jun 21 16:59:22 2017 开始抓取用户136505664的关注关系
+2017-06-21 17:00:36,019 UserRelsCrawler.py[line:80] INFO 已完成用户songjunvip的关注关系抓取
+2017-06-21 17:00:36,025 UserRelsCrawler.py[line:99] INFO 已将用户songjunvip的关注用户加入关系表
+2017-06-21 17:00:37,000 UserRelsCrawler.py[line:103] INFO 已将用户songjunvip的关注用户加入用户表
+2017-06-21 17:00:37,000 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:00:36 2017 开始抓取用户103283028的关注关系
+2017-06-21 17:00:37,029 UserRelsCrawler.py[line:80] INFO 已完成用户136505664的关注关系抓取
+2017-06-21 17:00:37,034 UserRelsCrawler.py[line:99] INFO 已将用户136505664的关注用户加入关系表
+2017-06-21 17:00:37,651 UserRelsCrawler.py[line:103] INFO 已将用户136505664的关注用户加入用户表
+2017-06-21 17:00:37,652 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:00:37 2017 开始抓取用户126617036的关注关系
+2017-06-21 17:01:01,678 UserRelsCrawler.py[line:80] INFO 已完成用户103283028的关注关系抓取
+2017-06-21 17:01:01,682 UserRelsCrawler.py[line:99] INFO 已将用户103283028的关注用户加入关系表
+2017-06-21 17:01:01,696 UserRelsCrawler.py[line:103] INFO 已将用户103283028的关注用户加入用户表
+2017-06-21 17:01:01,696 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:01:01 2017 开始抓取用户neutrogena的关注关系
+2017-06-21 17:01:02,472 UserRelsCrawler.py[line:80] INFO 已完成用户126617036的关注关系抓取
+2017-06-21 17:01:02,477 UserRelsCrawler.py[line:99] INFO 已将用户126617036的关注用户加入关系表
+2017-06-21 17:01:02,592 UserRelsCrawler.py[line:103] INFO 已将用户126617036的关注用户加入用户表
+2017-06-21 17:01:02,593 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:01:02 2017 开始抓取用户140519的关注关系
+2017-06-21 17:01:26,539 UserRelsCrawler.py[line:80] INFO 已完成用户neutrogena的关注关系抓取
+2017-06-21 17:01:26,546 UserRelsCrawler.py[line:99] INFO 已将用户neutrogena的关注用户加入关系表
+2017-06-21 17:01:26,689 UserRelsCrawler.py[line:103] INFO 已将用户neutrogena的关注用户加入用户表
+2017-06-21 17:01:26,689 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:01:26 2017 开始抓取用户176990的关注关系
+2017-06-21 17:01:28,005 UserRelsCrawler.py[line:70] INFO 当前用户140519关注关系抓取失败！
+2017-06-21 17:01:28,005 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:01:28 2017 开始抓取用户cic的关注关系
+2017-06-21 17:01:50,021 UserRelsCrawler.py[line:80] INFO 已完成用户124569730的关注关系抓取
+2017-06-21 17:01:50,028 UserRelsCrawler.py[line:99] INFO 已将用户124569730的关注用户加入关系表
+2017-06-21 17:01:50,938 UserRelsCrawler.py[line:70] INFO 当前用户176990关注关系抓取失败！
+2017-06-21 17:01:50,938 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:01:50 2017 开始抓取用户cheqiqi的关注关系
+2017-06-21 17:01:52,589 UserRelsCrawler.py[line:80] INFO 已完成用户cic的关注关系抓取
+2017-06-21 17:01:52,596 UserRelsCrawler.py[line:99] INFO 已将用户cic的关注用户加入关系表
+2017-06-21 17:01:52,634 UserRelsCrawler.py[line:103] INFO 已将用户cic的关注用户加入用户表
+2017-06-21 17:01:52,634 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:01:52 2017 开始抓取用户swarmagents的关注关系
+2017-06-21 17:01:53,105 UserRelsCrawler.py[line:103] INFO 已将用户124569730的关注用户加入用户表
+2017-06-21 17:01:53,106 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:01:53 2017 开始抓取用户217500的关注关系
+2017-06-21 17:01:56,099 UserRelsCrawler.py[line:80] INFO 已完成用户50478799的关注关系抓取
+2017-06-21 17:01:56,105 UserRelsCrawler.py[line:99] INFO 已将用户50478799的关注用户加入关系表
+2017-06-21 17:02:00,729 UserRelsCrawler.py[line:103] INFO 已将用户50478799的关注用户加入用户表
+2017-06-21 17:02:00,729 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:02:00 2017 开始抓取用户caijianya2009的关注关系
+2017-06-21 17:02:15,185 UserRelsCrawler.py[line:70] INFO 当前用户cheqiqi关注关系抓取失败！
+2017-06-21 17:02:15,186 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:02:15 2017 开始抓取用户900068128的关注关系
+2017-06-21 17:02:17,102 UserRelsCrawler.py[line:70] INFO 当前用户swarmagents关注关系抓取失败！
+2017-06-21 17:02:17,103 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:02:17 2017 开始抓取用户wow36kr的关注关系
+2017-06-21 17:02:17,376 UserRelsCrawler.py[line:70] INFO 当前用户217500关注关系抓取失败！
+2017-06-21 17:02:17,376 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:02:17 2017 开始抓取用户908483996的关注关系

@@ -36,6 +36,8 @@ class UserRelsCrawler(object):
 		self.proxy = proxy
 		self.retry_num = 0 
 		self.max_retry = 2
+		self.fail_count = 0
+		self.max_fail_count = 3
 		self.log = LogHandler('crawl_user_rels')
 		self.log.info(u"当前使用代理%s"%proxy)
 
@@ -64,7 +66,10 @@ class UserRelsCrawler(object):
 		rels = tuple(self.__getDoubanUserRelsOnePage(uid, s))
 		sleep(24) #休眠25秒后继续抓取
 		if not rels:
+			self.fail_count += 1
+			self.log.info(u"当前用户%s关注关系抓取失败！"%uid)
 			return None
+		self.fail_count = 0
 		while True:
 			s += 50
 			cur_rels = tuple(self.__getDoubanUserRelsOnePage(uid, s))
@@ -90,13 +95,13 @@ class UserRelsCrawler(object):
 				rels = self.__getDoubanUserRels(uid) #cost much time here
 				if rels and self.retry_num<self.max_retry:
 					self.db.putUserRels(uid, rels, 0)
-					self.db_user.updateUser(uid, 0, 1)
+					self.db_user.updateUserRelsCrawlTag(uid, 1)
 					self.log.info(u"已将用户%s的关注用户加入关系表"%uid)
 					for uid_in_rel in rels:
 						self.db_user.putUser('{{"uid":"{id}", "has_crawled":{crawled}, "has_got_rels":{got_rels}}}'\
 											.format(id=uid_in_rel, crawled=0, got_rels=0))
 					self.log.info(u"已将用户%s的关注用户加入用户表"%uid)
-			if u_index<0 or self.retry_num>=self.max_retry:
+			if u_index<0 or self.retry_num>=self.max_retry or self.fail_count>=self.max_fail_count:
 				break
 		self.log.info(u"当前的用户%s关注关系抓取线程任务已完成"%uid)
 
@@ -105,9 +110,11 @@ def userRelsCrawler(proxy):
 	pm.useProxy(proxy)
 	urc = UserRelsCrawler(proxy)
 	urc.getDoubanUserRels()
-	if urc.retry_num<urc.max_retry:
+	if urc.retry_num<urc.max_retry and urc.fail_count<urc.max_fail_count:
 		pm.releaseProxy(proxy)
 		urc.log.info(u"释放当前的代理%s"%proxy)
+	else:
+		urc.log.info(u"当前的代理%s失效"%proxy)
 
 def main(process_num=5):
 	pm = ProxyManager()
@@ -137,9 +144,8 @@ def main(process_num=5):
 		pl[num].join()
 
 def run():
-	main()
 	sched = BlockingScheduler()
-	sched.add_job(main, 'interval', minutes=5)
+	sched.add_job(main, 'interval', minutes=1)
 	sched.start()
 
 
