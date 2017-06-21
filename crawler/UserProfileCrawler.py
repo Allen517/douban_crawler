@@ -90,6 +90,8 @@ def userProfileCrawler(proxy):
 	if upc.retry_num<upc.max_retry and upc.fail_count<upc.max_fail_count:
 		pm.releaseProxy(proxy)
 		upc.log.info(u"释放当前的代理%s"%proxy)
+	else:
+		upc.log.info(u"当前的代理%s失效"%proxy)
 
 def main(process_num=5):
 	pm = ProxyManager()
@@ -120,9 +122,8 @@ def main(process_num=5):
 
 
 def run():
-	main()
 	sched = BlockingScheduler()
-	sched.add_job(main, 'interval', minutes=1)
+	sched.add_job(main, 'interval', minutes=2)
 	sched.start()
 
 

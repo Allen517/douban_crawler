@@ -984,3 +984,12 @@
 2017-06-21 17:02:17,103 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:02:17 2017 开始抓取用户wow36kr的关注关系
 2017-06-21 17:02:17,376 UserRelsCrawler.py[line:70] INFO 当前用户217500关注关系抓取失败！
 2017-06-21 17:02:17,376 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:02:17 2017 开始抓取用户908483996的关注关系
+2017-06-21 17:02:24,973 UserRelsCrawler.py[line:70] INFO 当前用户caijianya2009关注关系抓取失败！
+2017-06-21 17:02:24,974 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:02:24 2017 开始抓取用户4685968的关注关系
+2017-06-21 17:02:39,812 UserRelsCrawler.py[line:70] INFO 当前用户900068128关注关系抓取失败！
+2017-06-21 17:02:39,813 UserRelsCrawler.py[line:106] INFO 当前的用户900068128关注关系抓取线程任务已完成
+2017-06-21 17:02:39,813 UserRelsCrawler.py[line:117] INFO 当前的代理108.61.208.35:1189失效
+2017-06-21 17:02:41,382 UserRelsCrawler.py[line:70] INFO 当前用户wow36kr关注关系抓取失败！
+2017-06-21 17:02:41,383 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:02:41 2017 开始抓取用户900001647的关注关系
+2017-06-21 17:02:41,735 UserRelsCrawler.py[line:70] INFO 当前用户908483996关注关系抓取失败！
+2017-06-21 17:02:41,736 UserRelsCrawler.py[line:94] INFO Wed Jun 21 17:02:41 2017 开始抓取用户900109989的关注关系
