@@ -1,0 +1,79 @@
+2017-06-21 11:38:00,532 UserProfileCrawler.py[line:36] INFO 当前使用代理123.152.42.222:8118
+2017-06-21 11:38:49,016 UserProfileCrawler.py[line:36] INFO 当前使用代理123.152.42.222:8118
+2017-06-21 11:39:35,114 UserProfileCrawler.py[line:36] INFO 当前使用代理110.73.0.60:8123
+2017-06-21 11:39:35,120 UserProfileCrawler.py[line:36] INFO 当前使用代理94.177.240.99:1189
+2017-06-21 11:39:35,119 UserProfileCrawler.py[line:36] INFO 当前使用代理49.213.17.179:80
+2017-06-21 11:39:35,122 UserProfileCrawler.py[line:36] INFO 当前使用代理45.32.150.160:1189
+2017-06-21 11:39:35,128 UserProfileCrawler.py[line:36] INFO 当前使用代理125.167.179.103:8080
+2017-06-21 11:39:35,130 UserProfileCrawler.py[line:36] INFO 当前使用代理125.105.19.177:808
+2017-06-21 11:39:35,131 UserProfileCrawler.py[line:36] INFO 当前使用代理201.219.176.117:8080
+2017-06-21 11:39:35,132 UserProfileCrawler.py[line:36] INFO 当前使用代理202.69.38.68:80
+2017-06-21 11:39:35,133 UserProfileCrawler.py[line:36] INFO 当前使用代理125.89.120.27:808
+2017-06-21 11:39:35,133 UserProfileCrawler.py[line:36] INFO 当前使用代理119.29.246.212:8888
+2017-06-21 11:39:59,134 UserProfileCrawler.py[line:77] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 11:39:59,138 UserProfileCrawler.py[line:86] INFO 释放当前的代理110.73.0.60:8123
+2017-06-21 11:41:09,915 UserProfileCrawler.py[line:36] INFO 当前使用代理110.73.0.60:8123
+2017-06-21 11:41:33,920 UserProfileCrawler.py[line:76] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 11:41:33,924 UserProfileCrawler.py[line:85] INFO 释放当前的代理110.73.0.60:8123
+2017-06-21 11:43:00,733 UserProfileCrawler.py[line:36] INFO 当前使用代理110.73.0.60:8123
+2017-06-21 11:43:13,393 UserProfileCrawler.py[line:36] INFO 当前使用代理103.207.239.145:3128
+2017-06-21 11:43:13,394 UserProfileCrawler.py[line:69] INFO Wed Jun 21 11:43:13 2017 开始抓取用户tadamiracle的关注关系
+2017-06-21 11:44:44,061 UserProfileCrawler.py[line:36] INFO 当前使用代理121.31.146.10:8123
+2017-06-21 11:44:44,063 UserProfileCrawler.py[line:70] INFO Wed Jun 21 11:44:44 2017 开始抓取用户tadamiracle的关注关系
+2017-06-21 11:45:22,169 UserProfileCrawler.py[line:36] INFO 当前使用代理203.142.72.114:808
+2017-06-21 11:45:22,170 UserProfileCrawler.py[line:70] INFO Wed Jun 21 11:45:22 2017 开始抓取用户tadamiracle的关注关系
+2017-06-21 11:45:46,175 UserProfileCrawler.py[line:36] INFO 当前使用代理119.1.61.117:8998
+2017-06-21 11:45:46,177 UserProfileCrawler.py[line:70] INFO Wed Jun 21 11:45:46 2017 开始抓取用户 tadamiracle 的关注关系
+2017-06-21 11:46:10,978 UserProfileCrawler.py[line:36] INFO 当前使用代理94.177.234.5:1189
+2017-06-21 11:46:10,978 UserProfileCrawler.py[line:70] INFO Wed Jun 21 11:46:10 2017 开始抓取用户tadamiracle的关注关系
+2017-06-21 11:46:18,526 UserProfileCrawler.py[line:36] INFO 当前使用代理103.14.26.70:8080
+2017-06-21 11:46:18,528 UserProfileCrawler.py[line:70] INFO Wed Jun 21 11:46:18 2017 开始抓取用户tadamiracle的关注关系
+2017-06-21 11:46:46,423 UserProfileCrawler.py[line:74] INFO 已将用户tadamiracle的用户信息加入用户表
+2017-06-21 11:47:39,037 UserProfileCrawler.py[line:36] INFO 当前使用代理182.253.121.232:8080
+2017-06-21 11:47:39,039 UserProfileCrawler.py[line:70] INFO Wed Jun 21 11:47:39 2017 开始抓取用户158563799的关注关系
+2017-06-21 11:48:00,853 UserProfileCrawler.py[line:36] INFO 当前使用代理46.191.239.111:8080
+2017-06-21 11:48:13,482 UserProfileCrawler.py[line:36] INFO 当前使用代理31.220.59.103:3128
+2017-06-21 11:48:19,333 UserProfileCrawler.py[line:74] INFO 已将用户158563799的用户信息加入用户表
+2017-06-21 11:52:20,110 UserProfileCrawler.py[line:36] INFO 当前使用代理94.177.239.20:1189
+2017-06-21 11:52:20,111 UserProfileCrawler.py[line:73] INFO Wed Jun 21 11:52:20 2017 开始抓取用户53323659的关注关系
+2017-06-21 11:52:44,295 UserProfileCrawler.py[line:77] INFO 已将用户53323659的用户信息加入用户表
+2017-06-21 11:59:35,485 UserProfileCrawler.py[line:36] INFO 当前使用代理182.253.191.109:8080
+2017-06-21 11:59:35,486 UserProfileCrawler.py[line:74] INFO Wed Jun 21 11:59:35 2017 开始抓取用户158442747的关注关系
+2017-06-21 12:00:00,143 UserProfileCrawler.py[line:78] INFO 已将用户158442747的用户信息加入用户表
+2017-06-21 12:00:00,144 UserProfileCrawler.py[line:74] INFO Wed Jun 21 12:00:00 2017 开始抓取用户141017679的关注关系
+2017-06-21 12:00:25,372 UserProfileCrawler.py[line:78] INFO 已将用户141017679的用户信息加入用户表
+2017-06-21 12:00:25,373 UserProfileCrawler.py[line:74] INFO Wed Jun 21 12:00:25 2017 开始抓取用户pongba的关注关系
+2017-06-21 12:00:59,952 UserProfileCrawler.py[line:78] INFO 已将用户pongba的用户信息加入用户表
+2017-06-21 12:00:59,953 UserProfileCrawler.py[line:74] INFO Wed Jun 21 12:00:59 2017 开始抓取用户18996798的关注关系
+2017-06-21 12:01:24,473 UserProfileCrawler.py[line:78] INFO 已将用户18996798的用户信息加入用户表
+2017-06-21 12:01:24,475 UserProfileCrawler.py[line:74] INFO Wed Jun 21 12:01:24 2017 开始抓取用户99787253的关注关系
+2017-06-21 12:01:50,202 UserProfileCrawler.py[line:78] INFO 已将用户99787253的用户信息加入用户表
+2017-06-21 12:01:50,203 UserProfileCrawler.py[line:74] INFO Wed Jun 21 12:01:50 2017 开始抓取用户13584772的关注关系
+2017-06-21 12:02:26,452 UserProfileCrawler.py[line:78] INFO 已将用户13584772的用户信息加入用户表
+2017-06-21 12:02:26,452 UserProfileCrawler.py[line:74] INFO Wed Jun 21 12:02:26 2017 开始抓取用户lazysunday的关注关系
+2017-06-21 12:08:24,572 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 12:08:24,572 UserProfileCrawler.py[line:74] INFO Wed Jun 21 12:08:24 2017 开始抓取用户tadamiracle的关注关系
+2017-06-21 12:08:49,315 UserProfileCrawler.py[line:78] INFO 已将用户tadamiracle的用户信息加入用户表
+2017-06-21 12:08:49,315 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 12:08:49,319 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999
+2017-06-21 12:08:55,397 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 12:08:55,397 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 12:08:55,398 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999
+2017-06-21 12:09:01,379 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 12:09:01,380 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 12:09:01,383 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999
+2017-06-21 12:09:07,389 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 12:09:07,389 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 12:09:07,390 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999
+2017-06-21 12:09:13,400 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 12:09:13,400 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 12:09:13,412 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999
+2017-06-21 12:09:19,391 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 12:09:19,391 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 12:09:19,393 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999
+2017-06-21 12:09:25,392 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 12:09:25,393 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 12:09:25,396 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999
+2017-06-21 12:09:31,391 UserProfileCrawler.py[line:36] INFO 当前使用代理61.163.39.70:9999
+2017-06-21 12:09:31,391 UserProfileCrawler.py[line:81] INFO 当前的用户关注关系抓取线程任务已完成
+2017-06-21 12:09:31,392 UserProfileCrawler.py[line:90] INFO 释放当前的代理61.163.39.70:9999

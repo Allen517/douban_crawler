@@ -1,0 +1,89 @@
+2017-06-20 16:55:00,236 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed241e5e90>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:00,239 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x32eb0d0>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:00,239 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x32e3750>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:00,346 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b29d0>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:00,348 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b2d50>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:00,350 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c193110>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:00,370 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b2c50>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:00,450 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33f790>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:00,464 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33fbd0>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:00,470 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33fad0>, 'Connection to 139.255.92.5 timed out. (connect timeout=40)'))
+2017-06-20 16:55:08,753 utilFunction.py[line:92] DEBUG 198.23.74.170:81 is ok
+2017-06-20 16:55:09,602 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+2017-06-20 16:55:09,627 utilFunction.py[line:92] DEBUG 198.23.74.170:81 is ok
+2017-06-20 16:55:09,763 utilFunction.py[line:92] DEBUG 198.23.74.170:81 is ok
+2017-06-20 16:55:10,174 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+2017-06-20 16:55:11,094 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+2017-06-20 16:55:11,487 utilFunction.py[line:92] DEBUG 198.23.74.170:81 is ok
+2017-06-20 16:55:12,487 utilFunction.py[line:92] DEBUG 198.23.74.170:81 is ok
+2017-06-20 16:55:12,836 utilFunction.py[line:92] DEBUG 198.23.74.170:81 is ok
+2017-06-20 16:55:18,083 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+2017-06-20 16:55:19,312 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+2017-06-20 16:55:20,901 utilFunction.py[line:92] DEBUG 191.5.114.138:8080 is ok
+2017-06-20 16:55:22,048 utilFunction.py[line:92] DEBUG 191.5.114.138:8080 is ok
+2017-06-20 16:55:22,170 utilFunction.py[line:92] DEBUG 191.5.114.138:8080 is ok
+2017-06-20 16:55:22,968 utilFunction.py[line:92] DEBUG 191.5.114.138:8080 is ok
+2017-06-20 16:55:26,864 utilFunction.py[line:92] DEBUG 191.5.114.138:8080 is ok
+2017-06-20 16:55:27,780 utilFunction.py[line:92] DEBUG 188.232.223.188:53281 is ok
+2017-06-20 16:55:30,380 utilFunction.py[line:92] DEBUG 188.232.223.188:53281 is ok
+2017-06-20 16:55:31,426 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:55:33,547 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:55:34,047 utilFunction.py[line:92] DEBUG 191.5.114.138:8080 is ok
+2017-06-20 16:55:34,727 utilFunction.py[line:92] DEBUG 188.232.223.188:53281 is ok
+2017-06-20 16:55:34,779 utilFunction.py[line:92] DEBUG 188.232.223.188:53281 is ok
+2017-06-20 16:55:37,886 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:55:37,924 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:55:39,893 utilFunction.py[line:92] DEBUG 188.232.223.188:53281 is ok
+2017-06-20 16:55:40,933 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+2017-06-20 16:55:43,077 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:55:44,116 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:55:48,775 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x32eb190>, 'Connection to 191.5.114.138 timed out. (connect timeout=40)'))
+2017-06-20 16:55:51,139 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33f310>, 'Connection to 191.5.114.138 timed out. (connect timeout=40)'))
+2017-06-20 16:55:57,898 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+2017-06-20 16:55:58,114 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33fcd0>, 'Connection to 191.5.114.138 timed out. (connect timeout=40)'))
+2017-06-20 16:55:59,096 utilFunction.py[line:92] DEBUG 188.232.223.188:53281 is ok
+2017-06-20 16:55:59,264 utilFunction.py[line:92] DEBUG 187.84.240.162:8080 is ok
+2017-06-20 16:56:03,376 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:56:14,085 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x32e3d50>, 'Connection to 188.232.223.188 timed out. (connect timeout=40)'))
+2017-06-20 16:56:17,517 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:56:17,898 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed1819bb10>, 'Connection to 187.84.240.162 timed out. (connect timeout=40)'))
+2017-06-20 16:56:17,965 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b3750>, 'Connection to 187.84.240.162 timed out. (connect timeout=40)'))
+2017-06-20 16:56:23,108 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b3a90>, 'Connection to 187.84.240.162 timed out. (connect timeout=40)'))
+2017-06-20 16:56:24,127 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b3c50>, 'Connection to 187.84.240.162 timed out. (connect timeout=40)'))
+2017-06-20 16:56:25,488 utilFunction.py[line:92] DEBUG 188.232.223.188:53281 is ok
+2017-06-20 16:56:28,648 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:56:30,617 utilFunction.py[line:92] DEBUG 187.84.240.162:8080 is ok
+2017-06-20 16:56:37,915 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed1827a990>, 'Connection to 107.191.46.213 timed out. (connect timeout=40)'))
+2017-06-20 16:56:38,348 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33f190>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2017-06-20 16:56:39,278 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b36d0>, 'Connection to 107.191.46.213 timed out. (connect timeout=40)'))
+2017-06-20 16:56:39,644 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33f750>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2017-06-20 16:56:44,608 utilFunction.py[line:92] DEBUG 187.84.240.162:8080 is ok
+2017-06-20 16:56:48,113 utilFunction.py[line:92] DEBUG 180.158.218.58:9000 is ok
+2017-06-20 16:56:50,091 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', error(104, 'Connection reset by peer')))
+2017-06-20 16:56:51,324 utilFunction.py[line:92] DEBUG 180.158.218.58:9000 is ok
+2017-06-20 16:56:53,198 utilFunction.py[line:92] DEBUG 89.40.113.24:1189 is ok
+2017-06-20 16:56:57,930 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed1819ba50>, 'Connection to 107.191.46.213 timed out. (connect timeout=40)'))
+2017-06-20 16:56:57,979 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b3750>, 'Connection to 107.191.46.213 timed out. (connect timeout=40)'))
+2017-06-20 16:56:58,318 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed1819b790>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2017-06-20 16:56:58,382 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x32e3890>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2017-06-20 16:57:00,646 utilFunction.py[line:92] DEBUG 108.61.229.123:8080 is ok
+2017-06-20 16:57:01,267 utilFunction.py[line:92] DEBUG 187.84.240.162:8080 is ok
+2017-06-20 16:57:03,156 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b3b90>, 'Connection to 107.191.46.213 timed out. (connect timeout=40)'))
+2017-06-20 16:57:03,542 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x32e3e10>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2017-06-20 16:57:04,158 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b3950>, 'Connection to 107.191.46.213 timed out. (connect timeout=40)'))
+2017-06-20 16:57:04,543 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33f4d0>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2017-06-20 16:57:05,937 utilFunction.py[line:92] DEBUG 180.158.218.58:9000 is ok
+2017-06-20 16:57:06,044 utilFunction.py[line:92] DEBUG 180.158.218.58:9000 is ok
+2017-06-20 16:57:09,080 utilFunction.py[line:92] DEBUG 85.172.60.112:80 is ok
+2017-06-20 16:57:10,650 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33f6d0>, 'Connection to 107.191.46.213 timed out. (connect timeout=40)'))
+2017-06-20 16:57:11,042 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed2c33f7d0>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2017-06-20 16:57:14,879 utilFunction.py[line:92] DEBUG 108.61.229.123:8080 is ok
+2017-06-20 16:57:14,884 utilFunction.py[line:92] DEBUG 187.84.240.162:8080 is ok
+2017-06-20 16:57:15,097 utilFunction.py[line:92] DEBUG 180.158.218.58:9000 is ok
+2017-06-20 16:57:18,553 utilFunction.py[line:92] DEBUG 180.158.218.58:9000 is ok
+2017-06-20 16:57:24,628 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b29d0>, 'Connection to 107.191.46.213 timed out. (connect timeout=40)'))
+2017-06-20 16:57:25,406 utilFunction.py[line:95] INFO HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7fed081b2710>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+2017-06-20 16:59:12,012 utilFunction.py[line:111] INFO <urlopen error timed out>
+2017-06-21 11:33:58,322 utilFunction.py[line:111] INFO [Errno 104] Connection reset by peer
+2017-06-21 11:46:22,408 utilFunction.py[line:108] INFO HTTP Error 400: Bad Request
+2017-06-21 12:03:26,812 utilFunction.py[line:111] INFO The read operation timed out
