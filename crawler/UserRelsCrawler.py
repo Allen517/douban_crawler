@@ -41,7 +41,7 @@ class UserRelsCrawler(object):
 
 	def __getDoubanUserRelsOnePage(self, uid, s):
 		#url = "https://api.douban.com/v2/user/{}"
-		url = "https://api.douban.com/shuo/v2/users/{user}/following?count=50&start={start}".format(user=uid, start=s)
+		url = "http://api.douban.com/shuo/v2/users/{user}/following?count=50&start={start}".format(user=uid, start=s)
 		content = getUrlContent(url, self.proxy)
 		self.retry_num = 0 
 		while not content:
@@ -83,10 +83,10 @@ class UserRelsCrawler(object):
 				if uru_index<len_uru:
 					u_index = uru_index
 					uru_index += 1
-				mutex.release()
+					# uru_index = uru_index+1
 			if u_index>=0:
 				uid = uncrawled_rels_users[u_index][0]
-				self.log.info(u'%s 开始抓取用户%s的关注关系' % (time.ctime(), uid))
+				self.log.info(u'%s 开始抓取用户 %s 的关注关系' % (time.ctime(), uid))
 				rels = self.__getDoubanUserRels(uid) #cost much time here
 				print rels, self.retry_num, self.max_retry
 				if rels and self.retry_num<self.max_retry:
@@ -99,7 +99,7 @@ class UserRelsCrawler(object):
 					self.log.info(u"已将用户%s的关注用户加入用户表"%uid)
 			if u_index<0 or self.retry_num>=self.max_retry:
 				break
-		self.log.info(u"当前的用户%s关注关系抓取线程任务已完成"%uid)
+		self.log.info(u"当前的用户关注关系抓取线程任务已完成")
 
 def userRelsCrawler(proxy):
 	pm = ProxyManager()
@@ -108,7 +108,6 @@ def userRelsCrawler(proxy):
 	urc.getDoubanUserRels()
 	if urc.retry_num<urc.max_retry:
 		pm.releaseProxy(proxy)
-		urc.log.info(u"释放当前的代理%s"%proxy)
 
 def main(process_num=1):
 	pm = ProxyManager()
