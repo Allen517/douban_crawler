@@ -35,7 +35,7 @@ class UserRelsCrawler(object):
 		self.db_user = MongodbDoubanUsers()
 		self.proxy = proxy
 		self.retry_num = 0 
-		self.max_retry = 2
+		self.max_retry = 1
 		self.fail_count = 0
 		self.max_fail_count = 3
 		self.log = LogHandler('crawl_user_rels')
@@ -103,7 +103,7 @@ class UserRelsCrawler(object):
 					self.log.info(u"已将用户%s的关注用户加入用户表"%uid)
 			if u_index<0 or self.retry_num>=self.max_retry or self.fail_count>=self.max_fail_count:
 				break
-		self.log.info(u"当前的用户%s关注关系抓取线程任务已完成"%uid)
+		self.log.info(u"当前的用户关注关系抓取线程任务已完成")
 
 def userRelsCrawler(proxy):
 	pm = ProxyManager()
