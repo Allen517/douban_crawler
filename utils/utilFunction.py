@@ -99,9 +99,19 @@ def jsonStrFormat(json_str):
     return re.sub(r"(,?)(\w+?)\s+?:", r"\1'\2' :", json_str)
 
 def getUrlContent(url, proxy):
-    proxy_support = urllib2.ProxyHandler({'http':'http://%s' % proxy })   
-    opener = urllib2.build_opener(proxy_support, urllib2.HTTPHandler)    
-    urllib2.install_opener(opener)
+    # proxy_support = urllib2.ProxyHandler({'http':'http://%s' % proxy })   
+    # opener = urllib2.build_opener(proxy_support, urllib2.HTTPHandler)
+    # header = {'Connection': 'keep-alive',
+    #           'Cache-Control': 'max-age=0',
+    #           'Upgrade-Insecure-Requests': '1',
+    #           'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko)',
+    #           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    #           'Accept-Encoding': 'gzip, deflate, sdch',
+    #           'Accept-Language': 'zh-CN,zh;q=0.8',
+    #           }
+    # header = {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.1) Gecko/20090624 Firefox/3.5", 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
+    # req = urllib2.Request(url, headers=header)
+    # urllib2.install_opener(opener)
     try:
       src = urllib2.urlopen(url, timeout=40)
     except urllib2.HTTPError as e:
