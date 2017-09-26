@@ -21,8 +21,8 @@ from crawler.UserRelsCrawler import run as RelsCrawlerRun
 
 def run():
     p_list = list()
-    p1 = Process(target=RefreshRun, name='RefreshRun')
-    p_list.append(p1)
+    # p1 = Process(target=RefreshRun, name='RefreshRun')
+    # p_list.append(p1)
     p2 = Process(target=RelsCrawlerRun, name='RelsCrawlerRun')
     p_list.append(p2)
     p3 = Process(target=ProfileCrawlerRun, name='ProfileCrawlerRun')

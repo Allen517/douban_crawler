@@ -99,16 +99,17 @@ def jsonStrFormat(json_str):
     return re.sub(r"(,?)(\w+?)\s+?:", r"\1'\2' :", json_str)
 
 def getUrlContent(url, proxy):
-    proxy_support = urllib2.ProxyHandler({'http':'http://%s' % proxy })   
-    opener = urllib2.build_opener(proxy_support, urllib2.HTTPHandler)    
-    urllib2.install_opener(opener)
+    if proxy:
+        proxy_support = urllib2.ProxyHandler({'http': proxy })   
+        opener = urllib2.build_opener(proxy_support, urllib2.HTTPHandler)    
+        urllib2.install_opener(opener)
     try:
-      src = urllib2.urlopen(url, timeout=40)
+        src = urllib2.urlopen(url, timeout=20)
     except urllib2.HTTPError as e:
-      logger.info(e)
-      return jsonStrFormat('{"ERROR":"HTTP"}')
+        logger.info(e)
+        return jsonStrFormat('{"ERROR":"HTTP"}')
     except Exception as e:
-      logger.info(e)
-      return None
+        logger.info(e)
+        return None
 
     return src.read()

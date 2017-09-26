@@ -39,7 +39,7 @@ class UserRelsCrawler(object):
 		self.fail_count = 0
 		self.max_fail_count = 3
 		self.log = LogHandler('crawl_user_rels')
-		self.sleep_time = 3
+		self.sleep_time = 5
 		# self.log.info(u"当前使用代理%s"%proxy)
 
 	def __getDoubanUserRelsOnePage(self, uid, s):
@@ -90,6 +90,7 @@ class UserRelsCrawler(object):
 					u_index = uru_index
 					uru_index += 1
 				mutex.release()
+			uid = ""
 			if u_index>=0:
 				uid = uncrawled_rels_users[u_index][0]
 				self.log.info(u'%s 开始抓取用户%s的关注关系' % (time.ctime(), uid))
@@ -107,7 +108,7 @@ class UserRelsCrawler(object):
 					self.log.info(u"用户%s的关注用户信息无法抓取"%uid)
 			if u_index<0 or self.retry_num>=self.max_retry or self.fail_count>=self.max_fail_count:
 				break
-		self.log.info(u"当前的用户%s关注关系抓取线程任务已完成"%uid)
+			self.log.info(u"当前的用户%s关注关系抓取线程任务已完成"%uid)
 
 def userRelsCrawler(proxy):
 	# pm = ProxyManager()
@@ -124,10 +125,11 @@ def main(process_num=10):
 	# pm = ProxyManager()
 	mdu = MongodbDoubanUsers()
 	global uncrawled_rels_users, uru_index, len_uru
-	uncrawled_rels_users = uncrawled_rels_users[uru_index:]
-	uncrawled_rels_users.extend(mdu.getUsersRelCrawled(0))
+	uncrawled_rels_users = mdu.getUsersRelCrawled(0, 1000)
+	# uncrawled_rels_users.extend(mdu.getUsersRelCrawled(0, 1000))
 	len_uru = len(uncrawled_rels_users)
-	# unused_proxies = pm.getAllUnusedProxies()
+	uru_index = 0
+	# unused_proxies = pm.getAllUnusedProxies()to
 	#1. 取出当前可用的代理
 	#2. 取出当前需要抓取用户关系的用户列表
 	#3. 利用代理获取用户列表中用户的关注关系

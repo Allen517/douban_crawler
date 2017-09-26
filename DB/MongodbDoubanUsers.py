@@ -44,18 +44,30 @@ class MongodbDoubanUsers(MongodbClient):
 	def getUser(self, uid):
 		return MongodbClient.get(self, {"uid": uid})
 
-	def getAll(self):
-		return [(p['uid'], p['has_crawled'], p['has_got_rels']) for p in MongodbClient.getAll(self)]
+	def getAll(self, limit=None, skip=None):
+		return [(p['uid'], p['has_crawled'], p['has_got_rels']) for p in MongodbClient.getAll(self, limit, skip)]
 
-	def getUsersUsage(self, has_crawled):
-		usage = MongodbClient.getAll(self, {"has_crawled": has_crawled}) 
+	def __removeNoUidRecords(self, vals):
+		cnt = 0
+		records = MongodbClient.getAll(self, vals)
+		for r in records:
+			if 'uid' not in r:
+				obj_id = r['_id']
+				MongodbClient.delete(self, {'_id':obj_id})
+				cnt += 1
+		print "remove %d no uid records"%cnt
+
+	def getUsersUsage(self, has_crawled, limit=None, skip=None):
+		# self.__removeNoUidRecords({'has_crawled':has_crawled})
+		usage = MongodbClient.getAll(self, {"has_crawled": has_crawled}, limit, skip) 
 		if not usage:
 			return None
 		else:
 			return [(p['uid'], p['has_crawled']) for p in usage]
 
-	def getUsersRelCrawled(self, has_got_rels):
-		hasRels = MongodbClient.getAll(self, {"has_got_rels": has_got_rels}) 
+	def getUsersRelCrawled(self, has_got_rels, limit=None, skip=None):
+		# self.__removeNoUidRecords({'has_got_rels':has_got_rels})
+		hasRels = MongodbClient.getAll(self, {"has_got_rels": has_got_rels}, limit, skip) 
 		if not hasRels:
 			return None
 		else:

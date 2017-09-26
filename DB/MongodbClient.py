@@ -4,7 +4,7 @@ __author__ = 'Maps'
 
 import sys,os
 
-sys.path.append("../")
+sys.path.append("../../")
 
 from pymongo import MongoClient
 from utils.utilClass import Singleton
@@ -35,15 +35,29 @@ class MongodbClient(object):
 	def delete(self, key):
 		self.db[self.tab].remove(key)
 
+	def search(self, prop_name, prop_vals, search_opera):
+		"""
+		For example: search('uid', weibo_uids, '$in') # get user infos from weibodb
+		"""
+		for p in self.db[self.tab].find({prop_name:{search_opera:prop_vals}}):
+			yield p
+
 	def get(self, key):
 		if not self.db[self.tab].find_one(key):
 			return None
 		else:
 			return self.db[self.tab].find_one(key)
 
-	def getAll(self, key=None):
-		for p in self.db[self.tab].find(key):
-			yield p
+	def getAll(self, key=None, limit=None, skip=None):
+		if not limit and not skip:
+			for p in self.db[self.tab].find(key):
+				yield p
+		elif not skip and limit:
+			for p in self.db[self.tab].find(key).limit(limit):
+				yield p
+		else:
+			for p in self.db[self.tab].find(key).limit(limit).skip(skip):
+				yield p
 
 	def clean(self):
 		self.client.drop_database(self.db_name)

@@ -6,7 +6,8 @@ sys.path.append("../")
 
 import urllib2,json
 import logging,time
-from apscheduler.schedulers.blocking import BlockingScheduler
+from concurrent.futures import ThreadPoolExecutor
+from concurrent import futures
 from threading import Thread
 from threading import Lock
 from time import sleep
@@ -35,7 +36,7 @@ class UserProfileCrawler(object):
 		# self.log.info(u"当前使用代理%s"%proxy)
 		self.fail_count = 0
 		self.max_fail_count = 3
-		self.sleep_time = 3
+		self.sleep_time = 5
 
 	def __getDoubanUser(self, uid):
 		url = "https://api.douban.com/v2/user/{}?apikey=09ec337ecc4d17531dc49a7c64e745f9".format(uid)
@@ -76,12 +77,21 @@ class UserProfileCrawler(object):
 				uid = uncrawled_users[u_index][0]
 				self.log.info(u'%s 开始抓取用户%s的用户信息' % (time.ctime(), uid))
 				full_infos = self.__getDoubanUser(uid)
+				crawled_uid = ""
+				if full_infos and 'uid' in full_infos:
+					crawled_uid = full_infos['uid']
 				if self.retry_num<self.max_retry and full_infos:
-					self.db_user.updateUserProfileCrawlTag(uid, 1, full_infos)
+					if crawled_uid == uid:
+						self.db_user.updateUserProfileCrawlTag(uid, 1, full_infos)
+					else:
+						self.db_user.updateUserProfileCrawlTag(uid, 1, {'redirected_uid':crawled_uid})
+						self.db_user.updateUserRelsCrawlTag(uid, 1)
+						self.log.info(u"根据抓取信息将用户%s重定位至用户%s"%(uid,crawled_uid))
 					self.log.info(u"已将用户%s的用户信息加入用户表"%uid)
 				if self.retry_num<self.max_retry and not full_infos:
 					self.db_user.updateUserProfileCrawlTag(uid, 1)
 					self.log.info(u"用户%s的用户信息无法抓取"%uid)
+
 			if u_index<0 or self.retry_num>=self.max_retry or self.fail_count>=self.max_fail_count:
 				break
 		self.log.info(u"当前的用户信息抓取线程任务已完成")
@@ -97,12 +107,12 @@ def userProfileCrawler(proxy):
 	else:
 		upc.log.info(u"当前的代理%s失效"%proxy)
 
-def main(process_num=1):
+def main(process_num=10):
 	# pm = ProxyManager()
 	mdu = MongodbDoubanUsers()
 	global uncrawled_users, uu_index, len_uu
-	uncrawled_users = uncrawled_users[uu_index:]
-	uncrawled_users.extend(mdu.getUsersUsage(0))
+	uncrawled_users = mdu.getUsersUsage(0, 1000)
+	# uncrawled_users.extend(mdu.getUsersUsage(0, 1000))
 	len_uu = len(uncrawled_users)
 	uu_index = 0
 	# unused_proxies = pm.getAllUnusedProxies()
@@ -110,8 +120,9 @@ def main(process_num=1):
 	#2. 取出当前需要抓取用户关系的用户列表
 	#3. 利用代理获取用户列表中用户的关注关系
 	pl = []
+	proxy = ""
 	for proc_num in range(process_num):
-		proc = Thread(target=userProfileCrawler, args=("",))
+		proc = Thread(target=userProfileCrawler, args=(proxy,))
 		pl.append(proc)
 
 	# proc_num = 0
@@ -131,6 +142,7 @@ def main(process_num=1):
 
 
 def run():
+	main()
 	sched = BlockingScheduler()
 	sched.add_job(main, 'interval', minutes=2)
 	sched.start()

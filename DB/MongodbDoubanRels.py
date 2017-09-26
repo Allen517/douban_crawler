@@ -25,8 +25,8 @@ class MongodbDoubanRels(MongodbClient):
 	def getUserRels(self, uid):
 		return MongodbClient.get(self, {"uid": uid})
 
-	def getAll(self):
-		return [(p['uid'], p['rels'], p['used']) for p in MongodbClient.getAll(self)]
+	def getAll(self, limit=None, skip=None):
+		return [(p['uid'], p['rels'], p['used']) for p in MongodbClient.getAll(self, limit, skip)]
 
 if __name__ =='__main__':
 	mp = MongodbDoubanRels()
